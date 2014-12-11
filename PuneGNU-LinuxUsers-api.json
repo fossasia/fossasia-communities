@@ -18,8 +18,16 @@
       "url": "http://www.plug.org.in/"
     }
   ],
+  "feeds": [
+    {
+      "name": "Pune Linux User Group",
+      "category": "others",
+      "type": "rss",
+      "url": "http://www.plug.org.in/feed/"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-11T11:57:36.505Z"
+    "lastchange": "2014-12-11T12:21:58.852Z"
   },
   "api": "1.0.0"
 }
