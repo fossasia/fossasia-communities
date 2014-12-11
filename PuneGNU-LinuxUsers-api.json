@@ -21,7 +21,7 @@
   "feeds": [
     {
       "name": "Pune Linux User Group",
-      "category": "others",
+      "category": "blog",
       "type": "rss",
       "url": "http://www.plug.org.in/feed/"
     }
