@@ -1,0 +1,25 @@
+{
+  "name": "Pune GNU/Linux Users",
+  "url": "http://www.plug.org.in",
+  "location": {
+    "city": "Pune",
+    "country": "IN",
+    "lat": 18.5203,
+    "lon": 73.8567
+  },
+  "contact": {
+    "email": "webmaster@plug.org.in",
+    "ml": "http://www.plug.org.in/mailing-list/"
+  },
+  "timeline": [
+    {
+      "description": "PLUG's monthly meeting",
+      "timestamp": "2014-12-06",
+      "url": "http://www.plug.org.in/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-11T11:57:36.505Z"
+  },
+  "api": "1.0.0"
+}
