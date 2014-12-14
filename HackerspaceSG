@@ -1,0 +1,27 @@
+{
+  "name": "HackerspaceSG",
+  "url": "http://hackerspace.sg/",
+  "location": {
+    "city": "Singapore",
+    "country": "SG",
+    "lat": 1.3,
+    "lon": 103.8,
+    "address": {
+      "Name": "King George's Building",
+      "Street": "344B King George’s Avenue",
+      "Zipcode": "208576"
+    }
+  },
+  "contact": {
+    "email": "contact@hackerspace.sg",
+    "irc": "irc://irc.freenode.net/hackerspacesg",
+    "facebook": "https://www.facebook.com/hackerspacesg",
+    "twitter": "@hackerspacesg",
+    "googleplus": "https://plus.google.com/u/0/b/102228650709887614357"
+  },
+  "metacommunity": "Singaporean Community",
+  "state": {
+    "lastchange": "2014-12-14T10:36:11.837Z"
+  },
+  "api": "1.0.0"
+}
