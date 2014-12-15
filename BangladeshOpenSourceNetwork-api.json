@@ -1,0 +1,25 @@
+{
+  "name": "Bangladesh Open Source Network",
+  "url": "http://bdosn.org",
+  "location": {
+    "city": "Dhaka",
+    "country": "BD",
+    "lat": 23.739878,
+    "lon": 90.389536,
+    "address": {
+      "Name": "Elephant Road, Dhaka , Bangladesh",
+      "Street": "Shelteck Niribili, 1st Floor, 210/2",
+      "Zipcode": "1205"
+    }
+  },
+  "contact": {
+    "phone": "+88 01923 510073",
+    "facebook": "https://www.facebook.com/bdosn/info"
+  },
+  "metacommunity": "Osn-bd",
+
+  "state": {
+    "lastchange": "2014-12-14T13:25:07.452Z"
+  },
+  "api": "1.0.0"
+}
