@@ -1,0 +1,27 @@
+{
+  "name": "Mozilla Bangladesh",
+  "url": "http://mozillabd.org",
+  "location": {
+    "city": "Dhaka",
+    "country": "BD",
+    "lat": 23.816724,
+    "lon": 90.365782
+  },
+  "contact": {
+    "email": "mahayalamkhan@gmail.com",
+    "irc": "irc://irc.mozilla.org:6697/#bangladesh",
+    "ml": "https://lists.mozilla.org/listinfo/community-bangladesh",
+    "facebook": "https://www.facebook.com/groups/MozillaBD/",
+    "twitter": "@mozillabd"
+  },
+  "metacommunity": "Mozilla-bd",
+  "feeds": [
+    {
+      "category": "others"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-14T13:37:47.664Z"
+  },
+  "api": "1.0.0"
+}

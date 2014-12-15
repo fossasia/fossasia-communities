@@ -1,0 +1,30 @@
+{
+  "name": "Mozilla India",
+  "url": "http://mozillaindia.org",
+  "location": {
+    "city": "Bengaluru",
+    "country": "IN",
+    "lat": 12.9634504,
+    "lon": 77.614298,
+    "address": {
+      "Name": "Bengaluru",
+      "Street": "10, Serenity, 3rd Floor, ‘A’ Cross Palm Grove Road, Austin Town"
+    }
+  },
+  "metacommunity": "Mozilla-in",
+  "contact": {
+    "irc": "irc://irc.mozilla.org:6697/#india",
+    "ml": "https://lists.mozilla.org/listinfo/community-india",
+    "facebook": "https://www.facebook.com/mozillaindia",
+    "twitter": "@mozillain"
+  },
+  "feeds": [
+    {
+      "category": "others"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-14T13:47:26.688Z"
+  },
+  "api": "1.0.0"
+}
