@@ -1,0 +1,22 @@
+{
+  "name": "MEDCOAST Foundation",
+  "url": "http://www.medcoast.net",
+  "location": {
+    "city": "Dalyan",
+    "country": "TR",
+    "lat": 36.831247,
+    "lon": 28.646075,
+    "address": {
+      "Street": "Silungur Caddesi, Dalyan"
+    }
+  },
+  "contact": {
+    "email": "medcoast@medcoast.net",
+    "phone": "+90 252 2844450"
+  },
+  "metacommunity": "MedCoast",
+  "state": {
+    "lastchange": "2014-12-15T21:59:11.260Z"
+  },
+  "api": "1.0.0"
+}

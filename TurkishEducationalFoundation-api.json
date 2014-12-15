@@ -1,0 +1,24 @@
+{
+  "name": "Turkish Educational Foundation",
+  "url": "http://english.tev.org.tr",
+  "location": {
+    "city": "Denizli",
+    "country": "TR",
+    "lat": 37.774675,
+    "lon": 29.084895,
+    "address": {
+      "Street": "Büyükdere Cad. TEV Kocabaş İşhanı No: 111 Kat: 6-7-8 34349 Gayrettepe-İstanbul / TÜRKİYE"
+    }
+  },
+  "contact": {
+    "email": "tev@tev.org.tr",
+    "phone": "+90 (212) 444 0 838",
+    "facebook": "https://www.facebook.com/TurkEgitimVakfi",
+    "twitter": "@TEVKurumsal"
+  },
+  "metacommunity": "edu-tur",
+  "state": {
+    "lastchange": "2014-12-15T22:18:17.881Z"
+  },
+  "api": "1.0.0"
+}

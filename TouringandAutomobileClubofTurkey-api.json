@@ -1,0 +1,22 @@
+{
+  "name": "Touring and Automobile Club of Turkey",
+  "url": "http://www.turing.org.tr",
+  "location": {
+    "city": "Darlyn",
+    "country": "TR",
+    "lat": 36.8277078,
+    "lon": 28.6361593,
+    "address": {
+      "Street": "Oto Sanayi Sitesi Yanı, Seyrantepe yolu,"
+    }
+  },
+  "contact": {
+    "email": "turing@turing.org.tr",
+    "phone": "+90 212 282 81 40"
+  },
+  "metacommunity": "turing-turkey",
+  "state": {
+    "lastchange": "2014-12-15T22:09:10.981Z"
+  },
+  "api": "1.0.0"
+}
