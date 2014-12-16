@@ -13,13 +13,14 @@
   },
   "feeds": [
     {
-      "name": "Hanoi Linux User group blog",
+      "name": "HanoiLUG RSS Feed",
       "category": "blog",
-      "url": "http://blog.hanoilug.org"
+      "type": "rss",
+      "url": "http://blog.hanoilug.org/?feed=rss2"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T07:18:58.055Z"
+    "lastchange": "2014-12-16T09:51:54.736Z"
   },
   "api": "1.0.0"
 }

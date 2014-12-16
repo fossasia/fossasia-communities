@@ -16,13 +16,14 @@
   },
   "feeds": [
     {
-      "name": "Turkey Linux Users Association",
-      "category": "wiki",
-      "url": "http://www.lkd.org.tr/en"
+      "name": "Linux Kullanıcıları Derneği RSS Feed",
+      "category": "blog",
+      "type": "application/rss+xml",
+      "url": "http://www.lkd.org.tr/en/feed/"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T07:53:42.255Z"
+    "lastchange": "2014-12-16T09:55:17.386Z"
   },
   "api": "1.0.0"
 }

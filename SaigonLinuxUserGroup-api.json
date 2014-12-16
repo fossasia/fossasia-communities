@@ -14,12 +14,13 @@
   "feeds": [
     {
       "name": "Saigon Linux User group",
-      "category": "blog",
-      "url": "https://saigonlug.org"
+      "category": "forum",
+      "type": "rss",
+      "url": "https://saigonlug.org/feed/"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T07:19:57.640Z"
+    "lastchange": "2014-12-16T09:50:06.818Z"
   },
   "api": "1.0.0"
 }
