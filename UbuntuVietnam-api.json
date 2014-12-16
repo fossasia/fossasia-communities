@@ -1,0 +1,26 @@
+{
+  "name": "Ubuntu Vietnam",
+  "url": "http://www.ubuntu-vn.org/",
+  "location": {
+    "city": "Saigan",
+    "country": "VN",
+    "lat": 10.768451,
+    "lon": 106.6943626
+  },
+  "metacommunity": "Ubuntu-vn",
+  "contact": {
+    "ml": "https://lists.launchpad.net/ubuntu-vn",
+    "facebook": "https://www.facebook.com/ubuntu.vn"
+  },
+  "feeds": [
+    {
+      "name": "Ubuntu Việt Nam RSS",
+      "category": "blog",
+      "url": "http://www.ubuntu-vn.org/rss.xml"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T09:53:14.694Z"
+  },
+  "api": "1.0.0"
+}

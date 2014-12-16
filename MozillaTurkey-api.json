@@ -17,8 +17,16 @@
     "twitter": "@FirefoxTurkiye"
   },
   "metacommunity": "Mozilla-tr",
+  "feeds": [
+    {
+      "name": "Mozilla Türkiye RSS Feed",
+      "category": "blog",
+      "type": "application/rss+xml",
+      "url": "http://www.mozilla.org.tr/feed/"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-16T04:59:44.413Z"
+    "lastchange": "2014-12-16T09:57:56.194Z"
   },
   "api": "1.0.0"
 }
