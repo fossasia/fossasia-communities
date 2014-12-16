@@ -13,14 +13,14 @@
   },
   "feeds": [
     {
-      "name": "Ubuntu Turkey",
-      "category": "forum",
-      "type": "rss",
-      "url": "https://forum.ubuntu-tr.net/"
+      "name": "Ubuntu Türkiye &raquo; Beslemesi",
+      "category": "blog",
+      "type": "application/rss+xm",
+      "url": "http://www.ubuntu-tr.net/feed/"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T07:55:26.989Z"
+    "lastchange": "2014-12-16T09:59:36.179Z"
   },
   "api": "1.0.0"
 }

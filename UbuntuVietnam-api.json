@@ -14,13 +14,13 @@
   },
   "feeds": [
     {
-      "name": "Ubuntu Forum",
-      "category": "forum",
-      "url": "http://forum.ubuntu-vn.org/"
+      "name": "Ubuntu Việt Nam RSS",
+      "category": "blog",
+      "url": "http://www.ubuntu-vn.org/rss.xml"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T07:17:40.522Z"
+    "lastchange": "2014-12-16T09:53:14.694Z"
   },
   "api": "1.0.0"
 }

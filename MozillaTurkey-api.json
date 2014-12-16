@@ -19,13 +19,14 @@
   "metacommunity": "Mozilla-tr",
   "feeds": [
     {
-      "name": "Mozilla Turkey",
+      "name": "Mozilla Türkiye RSS Feed",
       "category": "blog",
-      "url": "http://www.mozilla.org.tr"
+      "type": "application/rss+xml",
+      "url": "http://www.mozilla.org.tr/feed/"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T07:52:21.597Z"
+    "lastchange": "2014-12-16T09:57:56.194Z"
   },
   "api": "1.0.0"
 }
