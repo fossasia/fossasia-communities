@@ -12,8 +12,15 @@
     "ml": "https://lists.launchpad.net/ubuntu-vn",
     "facebook": "https://www.facebook.com/ubuntu.vn"
   },
+  "feeds": [
+    {
+      "name": "Ubuntu Forum",
+      "category": "forum",
+      "url": "http://forum.ubuntu-vn.org/"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-16T07:01:41.809Z"
+    "lastchange": "2014-12-16T07:17:40.522Z"
   },
   "api": "1.0.0"
 }
