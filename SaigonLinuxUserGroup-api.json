@@ -11,8 +11,15 @@
   "contact": {
     "facebook": "https://www.facebook.com/SaigonLUG"
   },
+  "feeds": [
+    {
+      "name": "Saigon Linux User group",
+      "category": "blog",
+      "url": "https://saigonlug.org"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-16T06:35:56.496Z"
+    "lastchange": "2014-12-16T07:19:57.640Z"
   },
   "api": "1.0.0"
 }

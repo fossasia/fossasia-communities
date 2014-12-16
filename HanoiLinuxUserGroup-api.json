@@ -11,8 +11,15 @@
   "contact": {
     "ml": "http://lists.hanoilug.org/mailman/listinfo"
   },
+  "feeds": [
+    {
+      "name": "Hanoi Linux User group blog",
+      "category": "blog",
+      "url": "http://blog.hanoilug.org"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-16T06:44:24.996Z"
+    "lastchange": "2014-12-16T07:18:58.055Z"
   },
   "api": "1.0.0"
 }
