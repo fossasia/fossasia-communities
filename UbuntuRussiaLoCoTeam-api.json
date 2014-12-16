@@ -1,0 +1,30 @@
+{
+  "name": "Ubuntu Russia LoCo Team",
+  "url": "http://ubuntu.ru",
+  "location": {
+    "city": "Kostroma Oblast",
+    "country": "RU",
+    "lat": 57.7686586,
+    "lon": 40.9130859
+  },
+  "contact": {
+    "email": "ubuntu-ru@lists.ubuntu.com",
+    "jabber": "ubuntu@conference.jabber.ru",
+    "irc": "irc://irc.freenode.net/#ubuntu-ru",
+    "ml": "ubuntu-ru@lists.ubuntu.com",
+    "twitter": "@ubuntu_ru"
+  },
+  "metacommunity": "Ubuntu-ru",
+  "feeds": [
+    {
+      "name": "Recent Changes",
+      "category": "forum",
+      "type": "rss",
+      "url": "http://ubuntu.ru/feed.php"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T14:21:22.796Z"
+  },
+  "api": "1.0.0"
+}
