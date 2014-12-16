@@ -14,8 +14,15 @@
     "twitter": "@lkdtr",
     "googleplus": "https://plus.google.com/112223499431908086443"
   },
+  "feeds": [
+    {
+      "name": "Turkey Linux Users Association",
+      "category": "wiki",
+      "url": "http://www.lkd.org.tr/en"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-16T05:55:47.927Z"
+    "lastchange": "2014-12-16T07:53:42.255Z"
   },
   "api": "1.0.0"
 }

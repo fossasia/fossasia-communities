@@ -17,8 +17,15 @@
     "twitter": "@FirefoxTurkiye"
   },
   "metacommunity": "Mozilla-tr",
+  "feeds": [
+    {
+      "name": "Mozilla Turkey",
+      "category": "blog",
+      "url": "http://www.mozilla.org.tr"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-16T04:59:44.413Z"
+    "lastchange": "2014-12-16T07:52:21.597Z"
   },
   "api": "1.0.0"
 }
