@@ -1,0 +1,18 @@
+{
+  "name": "Saigon Linux User Group",
+  "url": "https://saigonlug.org",
+  "location": {
+    "city": "Saigon",
+    "country": "VN",
+    "lat": 10.768451,
+    "lon": 106.6943626
+  },
+  "metacommunity": "Linux-saigon",
+  "contact": {
+    "facebook": "https://www.facebook.com/SaigonLUG"
+  },
+  "state": {
+    "lastchange": "2014-12-16T06:35:56.496Z"
+  },
+  "api": "1.0.0"
+}
