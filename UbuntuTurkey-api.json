@@ -16,11 +16,11 @@
       "name": "Ubuntu Turkey",
       "category": "forum",
       "type": "rss",
-      "url": "http://loco.ubuntu.com/feeds/teams/ubuntu-tr/"
+      "url": "https://forum.ubuntu-tr.net/"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T06:06:05.257Z"
+    "lastchange": "2014-12-16T07:55:26.989Z"
   },
   "api": "1.0.0"
 }
