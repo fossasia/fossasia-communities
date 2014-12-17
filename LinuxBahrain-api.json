@@ -1,0 +1,17 @@
+{
+  "name": "Linux Bahrain",
+  "url": "http://linuxbahrain.com/",
+  "location": {
+    "city": "Manama",
+    "country": "BH",
+    "lat": 26.2167,
+    "lon": 50.5833
+  },
+  "contact": {
+    "email": "user@domain.com"
+  },
+  "state": {
+    "lastchange": "2014-12-17T00:38:56.817Z"
+  },
+  "api": "1.0.0"
+}
