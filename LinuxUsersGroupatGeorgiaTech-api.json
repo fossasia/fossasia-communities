@@ -1,0 +1,26 @@
+{
+  "name": "Linux Users Group at Georgia Tech",
+  "url": "http://lugatgt.org",
+  "location": {
+    "city": "Atlanta",
+    "country": "GE",
+    "lat": 33.775618,
+    "lon": -84.396285
+  },
+  "contact": {
+    "email": "president@lugatgt.org"
+  },
+  "metacommunity": "Linux-GA",
+  "feeds": [
+    {
+      "name": "LUG@GT &raquo; Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://lugatgt.org/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-18T06:55:14.312Z"
+  },
+  "api": "1.0.0"
+}
