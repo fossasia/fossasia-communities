@@ -1,0 +1,36 @@
+{
+  "name": "MozTW - Mozilla Taiwan Community",
+  "url": "http://moztw.org",
+  "location": {
+    "city": "Taiwan",
+    "country": "TW",
+    "lat": 25.044113,
+    "lon": 121.532295,
+    "address": {
+      "Name": "Mozilla Community Space Taipei",
+      "Street": "3rd Fl., No. 94, Sec. 1, Ba-de Rd., Zhongzheng District",
+      "Zipcode": "100"
+    }
+  },
+  "contact": {
+    "email": "moztw-general@googlegroups.com",
+    "irc": "irc://irc.mozilla.org:6697/#mozilla-taiwan",
+    "ml": "moztw-general@googlegroups.com",
+    "facebook": "https://www.facebook.com/moztw",
+    "twitter": "@moztw",
+    "googleplus": "https://plus.google.com/b/118083714315600969061/+MozTW/posts"
+  },
+  "metacommunity": "Mozilla",
+  "feeds": [
+    {
+      "name": "mailing list",
+      "category": "others",
+      "type": "xml",
+      "url": "https://groups.google.com/forum/feed/moztw-general/msgs/rss_v2_0.xml?num=50"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T16:41:22.649Z"
+  },
+  "api": "1.0.0"
+}
