@@ -1,0 +1,26 @@
+{
+  "name": "Shanghai Linux User Group",
+  "url": "http://www.shlug.org/",
+  "location": {
+    "city": "Shanghai",
+    "country": "CN",
+    "lat": 31.230393,
+    "lon": 121.473704
+  },
+  "contact": {
+    "email": "webmaster@shlug.org",
+    "twitter": "@ShanghaiLUG"
+  },
+  "feeds": [
+    {
+      "name": "SHLUG RSS",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.shlug.org/?feed=rss2"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T13:32:26.786Z"
+  },
+  "api": "1.0.0"
+}
