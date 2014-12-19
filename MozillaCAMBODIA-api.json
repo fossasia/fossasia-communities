@@ -1,0 +1,28 @@
+{
+  "name": "Mozilla CAMBODIA",
+  "url": "http://www.mozillakm.org/",
+  "location": {
+    "city": "Phnom Penh",
+    "country": "KH",
+    "lat": 11.5532915,
+    "lon": 104.902655
+  },
+  "contact": {
+    "email": "dev-l10n-km@lists.mozilla.org",
+    "ml": "dev-l10n-km@lists.mozilla.org",
+    "facebook": "https://www.facebook.com/mozilla.km"
+  },
+  "metacommunity": "Mozilla-km",
+  "feeds": [
+    {
+      "name": "សហគមន៍​​ខ្មែរ Mozilla RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.mozillakm.org/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-19T16:14:40.426Z"
+  },
+  "api": "1.0.0"
+}
