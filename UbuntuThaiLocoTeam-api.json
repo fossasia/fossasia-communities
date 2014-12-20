@@ -1,0 +1,27 @@
+{
+  "name": "Ubuntu Thai Loco Team",
+  "url": "http://www.ubuntuthailand.com/",
+  "location": {
+    "city": "Khlong Sok",
+    "country": "TH",
+    "lat": 13.03887,
+    "lon": 101.490104
+  },
+  "contact": {
+    "email": "gumaraa@gmail.com",
+    "irc": "irc://irc.freenode.net/#ubuntu-th",
+    "ml": "ubuntuclub@googlegroups.com"
+  },
+  "metacommunity": "Ubuntu-th",
+  "feeds": [
+    {
+      "name": "Ubuntu Thailand RSS Feed",
+      "category": "blog",
+      "url": "http://www.ubuntuthailand.com/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-19T14:23:14.707Z"
+  },
+  "api": "1.0.0"
+}
