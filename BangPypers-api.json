@@ -1,0 +1,47 @@
+{
+  "name": "BangPypers",
+  "url": "http://bangalore.python.org.in/",
+  "location": {
+    "city": "Bangalore",
+    "country": "IN",
+    "lat": 12.9667,
+    "lon": 77.5667
+  },
+  "contact": {
+    "email": "webmaster-bangalore@python.org.in",
+    "irc": "irc://irc.freenode.net/BangPypers",
+    "ml": "http://mail.python.org/mailman/listinfo/bangpypers",
+    "facebook": "https://facebook.com/bangpypers",
+    "twitter": "@__bangpypers__"
+  },
+  "metacommunity": "Python India (http://python.org.in)",
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2012-04-04",
+      "url": "http://www.meetup.com/BangPypers/"
+    },
+    {
+      "description": "Upcoming Jan Meetup",
+      "timestamp": "2015-01-24",
+      "url": "http://www.meetup.com/BangPypers/events/165153532/"
+    },
+    {
+      "description": "PyCon India",
+      "timestamp": "2014-09-27",
+      "url": "http://in.pycon.org/2014/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Blog Feed",
+      "category": "blog",
+      "type": "atom",
+      "url": "http://bangalore.python.org.in/feed.xml"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T07:50:18.923Z"
+  },
+  "api": "1.0.0"
+}
