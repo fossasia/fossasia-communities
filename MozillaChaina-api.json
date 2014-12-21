@@ -1,0 +1,25 @@
+{
+  "name": "Mozilla Chaina",
+  "url": "http://mozilla.com.cn",
+  "location": {
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 35.8592948,
+    "lon": 104.1361118,
+    "address": {
+      "Name": "Beijing Mozilla Network Technology Co., Ltd.",
+      "Street": "Jianguomenwai Avenue, Chaoyang District, the 21st International Club Office Building 800A ",
+      "Zipcode": "100020"
+    }
+  },
+  "contact": {
+    "email": "info-cn@mozilla.com",
+    "phone": "010-85325679",
+    "ml": "https://mail.mozilla.org/listinfo/contributor-zh-cn"
+  },
+  "metacommunity": "Mozilla-cn",
+  "state": {
+    "lastchange": "2014-12-21T02:30:06.593Z"
+  },
+  "api": "1.0.0"
+}

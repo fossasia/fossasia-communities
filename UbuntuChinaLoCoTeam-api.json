@@ -1,0 +1,28 @@
+{
+  "name": "Ubuntu China LoCo Team",
+  "url": "http://www.ubuntu-china.cn",
+  "location": {
+    "city": "Sanghai",
+    "country": "CN",
+    "lat": 31.2243489,
+    "lon": 121.4767528
+  },
+  "metacommunity": "ubuntu-cn",
+  "contact": {
+    "irc": "irc://irc.freenode.com/#ubuntu-cn",
+    "ml": "https://lists.launchpad.net/ubuntu-china-devs/",
+    "facebook": "https://www.facebook.com/UbuntuChina"
+  },
+  "feeds": [
+    {
+      "name": "ATOM - Ubuntu中文论坛",
+      "category": "forum",
+      "type": "atom",
+      "url": "http://forum.ubuntu.org.cn/feed.php"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T02:41:27.172Z"
+  },
+  "api": "1.0.0"
+}
