@@ -1,0 +1,22 @@
+{
+  "name": "Ubuntu India Local Team",
+  "url": "https://wiki.ubuntu.com/IndianTeam",
+  "location": {
+    "city": "Chennai",
+    "country": "IN",
+    "lat": 12.9946553,
+    "lon": 80.2333046
+  },
+  "contact": {
+    "email": "contacts@ubuntu-in.info",
+    "irc": "irc://irc.freenode.net/#ubuntu-in",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-in",
+    "facebook": "https://www.facebook.com/ubuntu.india.advocacy",
+    "twitter": "@ubuntuindia"
+  },
+  "metacommunity": "Ubuntu-in",
+  "state": {
+    "lastchange": "2014-12-20T15:41:15.445Z"
+  },
+  "api": "1.0.0"
+}
