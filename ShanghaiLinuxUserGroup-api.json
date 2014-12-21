@@ -11,8 +11,16 @@
     "email": "webmaster@shlug.org",
     "twitter": "@ShanghaiLUG"
   },
+  "feeds": [
+    {
+      "name": "SHLUG RSS",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.shlug.org/?feed=rss2"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-19T13:14:16.024Z"
+    "lastchange": "2014-12-21T13:32:26.786Z"
   },
   "api": "1.0.0"
 }
