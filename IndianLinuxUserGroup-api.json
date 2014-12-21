@@ -1,0 +1,52 @@
+{
+  "name": "Indian Linux User Group",
+  "url": "http://ilugc.in/",
+  "location": {
+    "city": "Chennai",
+    "country": "IN",
+    "lat": 13.0839,
+    "lon": 80.27,
+    "address": {
+      "Name": "Classroom No 1, Aero Space Engineering, Near Gajendra Circle, IIT Madras",
+      "Street": "Sardar Patel Road",
+      "Zipcode": "600036"
+    }
+  },
+  "contact": {
+    "email": "tshrinivasan@gmail.com",
+    "irc": "irc://irc.freenode.net/ilugc-in",
+    "ml": "http://ilugc.in/mailing-list/",
+    "facebook": "https://www.facebook.com/groups/ilugchennai/",
+    "twitter": "@ilugc"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "1997-1-1",
+      "url": "http://ilugc.in/welcome-ilugc/"
+    },
+    {
+      "description": "December Meetup",
+      "timestamp": "2014-12-14",
+      "url": "http://ilugc.in/calendar/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://ilugc.in/feed/"
+    },
+    {
+      "name": "Mailing List Discussion Feed",
+      "category": "others",
+      "type": "rss",
+      "url": "http://rss.gmane.org/gmane.org.user-groups.linux.ilugc"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-20T18:38:03.650Z"
+  },
+  "api": "1.0.0"
+}

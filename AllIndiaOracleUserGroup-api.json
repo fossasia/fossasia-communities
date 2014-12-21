@@ -1,0 +1,51 @@
+{
+  "name": "All India Oracle User Group",
+  "url": "http://www.aioug.org/",
+  "location": {
+    "city": "Bangalore",
+    "country": "IN",
+    "lat": 12.9667,
+    "lon": 77.5667,
+    "address": {
+      "Name": "AIOUG Headquarters",
+      "Street": "P34, 6th Main, Sector X, HAL IIIrd Stage",
+      "Zipcode": "560075"
+    }
+  },
+  "contact": {
+    "email": "info@aioug.org",
+    "facebook": "https://www.facebook.com/aioug",
+    "twitter": "@aioug"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2007-06-28"
+    },
+
+    {
+      "description": "Sangam14",
+      "timestamp": "2014-11-07",
+      "url": "http://www.sangam14.info/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "News Feed",
+      "category": "blog",
+      "type": "rss5",
+      "url": "http://www.aioug.org/feed/newsfeed.xml"
+    },
+    {
+      "name": "Events Feed",
+      "category": "others",
+      "type": "rss",
+      "url": "http://www.aioug.org/events/index.php?format=feed&type=rss"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-20T08:36:53.100Z"
+  },
+  
+  "api": "1.0.0"
+}
