@@ -1,0 +1,18 @@
+{
+  "name": "Russian Debian user group",
+  "url": "https://www.debian.org/international/Russian#users",
+  "location": {
+    "city": "Russia",
+    "country": "RU",
+    "lat": 55.751244,
+    "lon": 37.618423
+  },
+  "contact": {
+    "email": "debian-russian@lists.debian.org",
+    "irc": "irc://irc.debian.org"
+  },
+  "state": {
+    "lastchange": "2014-12-21T07:55:33.819Z"
+  },
+  "api": "1.0.0"
+}
