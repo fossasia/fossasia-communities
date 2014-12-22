@@ -1,0 +1,26 @@
+{
+  "name": "FOSSC-Oman",
+  "url": "http://fossc.om/",
+  "location": {
+    "city": "Muscat",
+    "country": "OM",
+    "lat": 23.61,
+    "lon": 58.54
+  },
+  "contact": {
+    "email": "inquiry@fossc.om",
+    "phone": "+968 2414 3696",
+    "facebook": "https://www.facebook.com/fossc.oman"
+  },
+  "timeline": [
+    {
+      "description": "Conference in 2013 started",
+      "timestamp": "2013-02-18",
+      "url": "http://fossc.om/2015/conf-2013/schedule.html"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-14T15:12:58.485Z"
+  },
+  "api": "1.0.0"
+}
