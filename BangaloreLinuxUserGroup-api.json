@@ -1,0 +1,17 @@
+{
+  "name": "Bangalore Linux User Group",
+  "url": "http://linux-bangalore.org/blug/index.html",
+  "location": {
+    "city": "Banglore",
+    "country": "IN",
+    "lat": 12.9667,
+    "lon": 77.5667
+  },
+  "contact": {
+    "email": "webmaster@linux-banglore.org"
+  },
+  "state": {
+    "lastchange": "2014-12-24T02:55:04.537Z"
+  },
+  "api": "1.0.1"
+}
