@@ -1,0 +1,48 @@
+{
+  "name": "Tokyo Linux UG",
+  "url": "http://www.tlug.jp/",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "address": {
+      "Name": "Sumitomo Fudosan Koujimachi Bldg. No.3",
+      "Street": "3-6 Koujimachi, Chiyoda-ku",
+      "Zipcode": "102-0083"
+    }
+  },
+  "state": {
+    "logo": "http://www.tlug.jp/tlug_template/shirt200.png",
+    "lastchange": "2014-12-25T07:52:19.862Z"
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/tlug.jp",
+    "ml": "http://lists.tlug.jp/list.html",
+    "facebook": "https://www.facebook.com/tokyo.linux",
+    "twitter": "@tokyolug",
+    "googleplus": "https://plus.google.com/communities/110190390394003190739"
+  },
+  "timeline": [
+    {
+      "description": "TLUG Technical Meeting",
+      "timestamp": "2014-12-06",
+      "url": "http://tlug.jp/wiki/Meetings:2014:12"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Github Feed",
+      "category": "others",
+      "type": "atom",
+      "url": "https://github.com/tlug.atom"
+    },
+    {
+      "name": "Wiki History",
+      "category": "wiki",
+      "type": "rss",
+      "url": "http://www.tlug.jp/mediawiki/index.php?title=Main_Page&action=history&feed=rss"
+    }
+  ],
+  "api": "1.0.1"
+}
