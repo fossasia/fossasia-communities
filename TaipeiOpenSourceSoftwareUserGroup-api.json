@@ -1,0 +1,19 @@
+{
+  "name": "Taipei Open Source Software User Group",
+  "url": "http://www.tossug.org/",
+  "location": {
+    "city": "Taipei",
+    "country": "TW",
+    "lat": 25.091075,
+    "lon": 121.5598344
+  },
+  "contact": {
+    "email": "hojia@tossug.org",
+    "facebook": "https://www.facebook.com/tossug",
+    "googleplus": "https://plus.google.com/communities/115008508939921336314"
+  },
+  "state": {
+    "lastchange": "2014-12-26T13:57:20.962Z"
+  },
+  "api": "1.0.1"
+}
