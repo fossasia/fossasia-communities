@@ -1,0 +1,22 @@
+{
+  "name": "Linux Bahrain",
+  "url": "http://linuxbahrain.com",
+  "location": {
+    "city": "Manama",
+    "country": "BH",
+    "lat": 26.2167,
+    "lon": 50.5833
+  },
+  "feeds": [
+    {
+      "name": "News Feed",
+      "category": "blog",
+      "type": "rss5",
+      "url": "http://linuxbahrain.com/rss.xml"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-23T01:22:05.865Z"
+  },
+  "api": "1.0.1"
+}
