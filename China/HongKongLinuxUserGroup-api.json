@@ -1,0 +1,30 @@
+{
+  "name": "Hong Kong Linux User Group",
+  "url": "http://www.linux.org.hk/",
+  "location": {
+    "city": "Hong Kong",
+    "country": "CN",
+    "lat": 22.267,
+    "lon": 114.188,
+    "address": {
+      "Name": "Hong Kong Linux User Group",
+      "Street": "G.P.O. Box No. 11731",
+      "Zipcode": "Hong Kong"
+    }
+  },
+  "contact": {
+    "email": "info@linux.hk",
+    "ml": "hklug@googlegroups.com",
+    "facebook": "https://www.facebook.com/groups/hklug/"
+  },
+  "timeline": [
+    {
+      "description": "Group creation",
+      "timestamp": "1997-10-01"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-13T10:44:48.868Z"
+  },
+  "api": "1.0.0"
+}

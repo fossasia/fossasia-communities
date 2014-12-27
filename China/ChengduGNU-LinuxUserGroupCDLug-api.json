@@ -1,0 +1,28 @@
+{
+  "name": "Chengdu GNU / Linux User Group (CDLug)",
+  "url": "http://www.cdlug.org/",
+  "location": {
+    "city": "Chengdu",
+    "country": "CN",
+    "lat": 35,
+    "lon": 103
+  },
+  "contact": {
+    "email": "cdlug_community@googlegroups.com"
+  },
+  "feeds": [
+    {
+      "category": "wiki",
+      "url": "http://wiki.cdlug.org/"
+    },
+    {
+      "category": "others",
+      "type": "rss",
+      "url": "http://www.cdlug.org/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-15T10:33:36.381Z"
+  },
+  "api": "1.0.0"
+}
