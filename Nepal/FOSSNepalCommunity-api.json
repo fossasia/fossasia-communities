@@ -1,34 +1,28 @@
 {
-  "name": "FOSS Nepal Community",
-  "url": "http://wiki.fossnepal.org/index.php?title=Main_Page",
-  "location": {
-    "city": "Kathmandu",
-    "country": "NP",
-    "lat": 27.7,
-    "lon": 85.3333
-  },
-  "contact": {
-    "email": "info@fossnepal.org",
-    "phone": "0097714261459",
-    "irc": "irc://freenode.net/#foss-nepal",
-    "facebook": "https://www.facebook.com/FOSSnp/info?tab=overview",
-    "twitter": "@fossnp"
-  },
-  "timeline": [
-    {
-      "description": "started on",
-      "timestamp": "2005-09-29",
-      "url": "https://www.facebook.com/FOSSnp/info?tab=page_info"
-    }
-  ],
-  "feeds": [
-    {
-      "category": "forum",
-      "url": "https://groups.google.com/forum/#!forum/foss-nepal"
-    }
-  ],
-  "state": {
-    "lastchange": "2014-12-23T23:03:12.593Z"
-  },
-  "api": "1.0.1"
+    "name": "FOSS Nepal Community",
+    "url": "http://wiki.fossnepal.org/index.php?title=Main_Page",
+    "location": {
+        "city": "Kathmandu",
+        "country": "NP",
+        "lat": 27.7,
+        "lon": 85.3333
+    },
+    "contact": {
+        "email": "info@fossnepal.org",
+        "phone": "0097714261459",
+        "irc": "irc://freenode.net/#foss-nepal",
+        "facebook": "https://www.facebook.com/FOSSnp/info?tab=overview",
+        "twitter": "@fossnp"
+    },
+    "timeline": [
+        {
+            "description": "started on",
+            "timestamp": "2005-09-29",
+            "url": "https://www.facebook.com/FOSSnp/info?tab=page_info"
+        }
+    ],
+    "state": {
+        "lastchange": "2014-12-23T23:03:12.593Z"
+    },
+    "api": "1.0.1"
 }
