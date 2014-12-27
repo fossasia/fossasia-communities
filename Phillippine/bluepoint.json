@@ -1,0 +1,38 @@
+{
+  "name": "Bluepoint Foundation",
+  "url": "http://bluepoint.com.ph/",
+  "location": {
+    "city": "Quezon City",
+    "country": "PH",
+    "lat": 14.633,
+    "lon": 121.033,
+    "address": {
+      "Name": "Bantayog ng mga Bayani (Monument to the Heroes) Memorial Center",
+      "Street": "Quezon Avenue near corner Edsa"
+    }
+  },
+  "contact": {
+    "email": "info@bluepoint.com.ph",
+    "facebook": "https://www.facebook.com/BluepointFoundation",
+    "twitter": "@bluepointph"
+  },
+  "timeline": [
+    {
+      "description": "Foundation creation",
+      "timestamp": "1999-01-01",
+      "url": "http://bluepoint.com.ph/index.php?category=bluepoint"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main RSS feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://bluepoint.com.ph/rss.php?ver=2.0"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T18:37:10.127Z"
+  },
+  "api": "1.0.0"
+}

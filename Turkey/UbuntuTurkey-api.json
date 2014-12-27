@@ -1,0 +1,26 @@
+{
+  "name": "Ubuntu Turkey",
+  "url": "http://www.ubuntu-tr.net",
+  "location": {
+    "city": "Malatya",
+    "country": "TR",
+    "lat": 39.2387034,
+    "lon": 34.131122
+  },
+  "metacommunity": "Ubuntu-tr",
+  "contact": {
+    "irc": "irc://irc.freenode.org/#ubuntu-tr"
+  },
+  "feeds": [
+    {
+      "name": "Ubuntu Türkiye &raquo; Beslemesi",
+      "category": "blog",
+      "type": "application/rss+xm",
+      "url": "http://www.ubuntu-tr.net/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T09:59:36.179Z"
+  },
+  "api": "1.0.0"
+}

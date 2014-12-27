@@ -1,0 +1,57 @@
+{
+  "name": "Pune.rb",
+  "url": "http://www.punerb.org/",
+  "location": {
+    "city": "Pune",
+    "country": "IN",
+    "lat": 18.5203,
+    "lon": 73.8567,
+    "address": {
+      "Name": "Town Square",
+      "Street": "New Airport Road, Viman Nagar",
+      "Zipcode": "411014"
+    }
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/punerb",
+    "ml": "puneruby@googlegroups.com",
+    "facebook": "https://www.facebook.com/groups/punerb/",
+    "twitter": "@punerb"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2010-02-24",
+      "url": "http://www.meetup.com/PuneRailsMeetup/"
+    },
+    {
+      "description": "December Meetup",
+      "timestamp": "2014-12-6",
+      "url": "http://www.punerb.org/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Github Feed",
+      "category": "others",
+      "type": "atom",
+      "url": "https://github.com/punerb.atom"
+    },
+    {
+      "name": "Google Groups Feed",
+      "category": "forum",
+      "type": "rss",
+      "url": "https://groups.google.com/forum/feed/puneruby/msgs/rss.xml"
+    },
+    {
+      "name": "Events Feed",
+      "category": "others",
+      "type": "http://www.meetup.com/PuneRailsMeetup/events/rss/",
+      "url": "rss"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T08:46:09.157Z"
+  },
+  "api": "1.0.0"
+}

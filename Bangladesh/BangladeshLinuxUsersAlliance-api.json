@@ -1,0 +1,26 @@
+{
+  "name": "Bangladesh Linux Users Alliance ",
+  "url": "http://forum.linux.org.bd",
+  "location": {
+    "city": "Dhaka",
+    "country": "BD",
+    "lat": 23.810332,
+    "lon": 90.4125181
+  },
+  "metacommunity": "Linux-bd",
+  "contact": {
+    "facebook": "https://facebook.com/bdlinux"
+  },
+  "feeds": [
+    {
+      "name": "Bangladesh Linux Users Alliance  Feed",
+      "category": "forum",
+      "type": "rss",
+      "url": "http://feeds.feedburner.com/bdlinux/forum"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T14:44:04.143Z"
+  },
+  "api": "1.0.0"
+}

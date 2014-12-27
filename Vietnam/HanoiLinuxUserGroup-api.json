@@ -1,0 +1,26 @@
+{
+  "name": "Hanoi Linux User Group",
+  "url": "http://blog.hanoilug.org",
+  "location": {
+    "city": "Saigan",
+    "country": "VN",
+    "lat": 21.0189311,
+    "lon": 105.8273507
+  },
+  "metacommunity": "Linux-hanoi",
+  "contact": {
+    "ml": "http://lists.hanoilug.org/mailman/listinfo"
+  },
+  "feeds": [
+    {
+      "name": "HanoiLUG RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://blog.hanoilug.org/?feed=rss2"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T09:51:54.736Z"
+  },
+  "api": "1.0.0"
+}

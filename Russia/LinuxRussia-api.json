@@ -1,0 +1,27 @@
+{
+  "name": "Linux Russia",
+  "url": "http://www.linuxrussia.com/",
+  "location": {
+    "city": "Krasnoyarsk Krai",
+    "country": "RU",
+    "lat": 56.0267295,
+    "lon": 92.8657339
+  },
+  "contact": {
+    "email": "kobylyanets@gmail.com",
+    "twitter": "@linuxrussia"
+  },
+  "metacommunity": "Linux-ru",
+  "feeds": [
+    {
+      "name": "LinuxRussia.com - RSS",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.linuxrussia.com/feeds/posts/default?alt=rss"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T14:06:11.670Z"
+  },
+  "api": "1.0.0"
+}

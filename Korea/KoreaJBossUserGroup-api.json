@@ -1,0 +1,31 @@
+{
+  "name": "Korea JBoss User Group",
+  "url": "http://cafe.naver.com/jbossug",
+  "location": {
+    "city": "Seoul",
+    "country": "KR",
+    "lat": 37.55,
+    "lon": 126.9667
+  },
+  "contact": {
+    "email": "jbossusergroup@gmail.com",
+    "facebook": "https://www.facebook.com/groups/jbossusergroup/events/"
+  },
+  "timeline": [
+    {
+      "description": "Regular monthly meeting",
+      "url": "https://www.facebook.com/groups/jbossusergroup/events/"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "others",
+      "type": "rss",
+      "url": "http://cafe.rss.naver.com/jbossug"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-15T12:14:28.867Z"
+  },
+  "api": "1.0.0"
+}

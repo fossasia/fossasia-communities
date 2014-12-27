@@ -1,0 +1,23 @@
+{
+  "name": "Peradeniya Linux User Group",
+  "url": "http://www.pdn.ac.lk/",
+  "location": {
+    "city": "Peradeniya",
+    "country": "LK",
+    "lat": 7.2667,
+    "lon": 80.6,
+    "address": {
+      "Name": "University of Peradeniya"
+    }
+  },
+  "contact": {
+    "email": "webmaster@pdn.ac.lk",
+    "phone": "+94812390000",
+    "facebook": "https://www.facebook.com/UniversityOfPeradeniya",
+    "googleplus": "https://plus.google.com/communities/117553209665824367675"
+  },
+  "state": {
+    "lastchange": "2014-12-16T14:54:06.732Z"
+  },
+  "api": "1.0.0"
+}

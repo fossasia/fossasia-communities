@@ -1,0 +1,26 @@
+{
+  "name": "Seoul Tech Society",
+  "url": "http://seoultechsociety.org/",
+  "location": {
+    "city": "Seoul",
+    "country": "KR",
+    "lat": 37.55,
+    "lon": 126.9667
+  },
+  "contact": {
+    "email": "contacts@seoultechsociety.org",
+    "facebook": "https://www.facebook.com/SeoulTechSociety",
+    "twitter": "@Seoul_Tech"
+  },
+  "timeline": [
+    {
+      "description": "founded",
+      "timestamp": "2013-01-22",
+      "url": "https://www.facebook.com/SeoulTechSociety/info?tab=milestone"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-15T13:04:16.589Z"
+  },
+  "api": "1.0.0"
+}

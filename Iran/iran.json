@@ -1,0 +1,36 @@
+{
+  "name": "Isfahan Linux Users Group",
+  "url": "http://www.isfahanlug.org/",
+  "location": {
+    "city": "Isfahan",
+    "country": "IR",
+    "lat": 32.63333,
+    "lon": 51.65
+  },
+  "contact": {
+    "irc": "irc://freenode.net/isfahanlug",
+    "ml": "list-subscribe@isfahanlug.org",
+    "facebook": "https://www.facebook.com/isfahanlug/",
+    "twitter": "@isfahanlug",
+    "googleplus": "https://plus.google.com/communities/117833476753116386010"
+  },
+  "timeline": [
+    {
+      "description": "Group creation",
+      "timestamp": "2007-04-10",
+      "url": "http://www.isfahanlug.org/doku.php?id=english"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.isfahanlug.org/feed.php"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-23T16:43:49.745Z"
+  },
+  "api": "1.0.1"
+}

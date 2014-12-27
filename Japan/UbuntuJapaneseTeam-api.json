@@ -1,0 +1,29 @@
+{
+  "name": "Ubuntu Japanese Team",
+  "url": "http://www.ubuntulinux.jp",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.6833,
+    "lon": 139.7667
+  },
+  "contact": {
+    "irc": "irc://freenode.net/#ubuntu-jp"
+  },
+  "timeline": [
+    {
+      "description": "founded",
+      "timestamp": "2005-11-08"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "wiki",
+      "url": "https://wiki.ubuntulinux.jp/JapaneseTeamMember"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-14T13:59:43.851Z"
+  },
+  "api": "1.0.0"
+}

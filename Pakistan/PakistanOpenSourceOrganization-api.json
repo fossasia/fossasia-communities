@@ -1,0 +1,24 @@
+{
+  "name": "Pakistan Open Source Organization",
+  "url": "http://www.pakistanopensource.org/",
+  "location": {
+    "city": "Karachi",
+    "country": "PK",
+    "lat": 24.911287,
+    "lon": 67.035093,
+    "address": {
+      "Name": "Linuxpakistan",
+      "Street": " 4-E-1/6 Nazimabad",
+      "Zipcode": "74600"
+    }
+  },
+  "contact": {
+    "email": "admin@pakistanopensource.org",
+    "phone": "+92-21-6622134"
+  },
+  "metacommunity": "Linux Pakistan",
+  "state": {
+    "lastchange": "2014-12-16T02:20:43.072Z"
+  },
+  "api": "1.0.0"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Ubuntu Korean Team",
+  "url": "http://ubuntu-kr.org/",
+  "location": {
+    "city": "South korea",
+    "country": "KR",
+    "lat": 37.55,
+    "lon": 126.9667
+  },
+  "contact": {
+    "irc": "irc://freenode.net/#ubuntu-ko",
+    "ml": "http://lists.ubuntu.com/mailman/listinfo/ubuntu-ko",
+    "facebook": "https://www.facebook.com/groups/ubuntu.ko/"
+  },
+  "timeline": [
+    {
+      "description": "founded",
+      "timestamp": "2005-12-29",
+      "url": "https://launchpad.net/~ubuntu-ko"
+    },
+    {
+      "description": "Monthly Activity 2014",
+      "timestamp": "2014-01-25",
+      "url": "https://wiki.ubuntu.com/KoreanTeam/activities/14"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "forum",
+      "url": "http://forum.ubuntu.or.kr/"
+    },
+    {
+      "name": "Ubuntu wiki",
+      "category": "wiki",
+      "url": "http://forum.ubuntu.or.kr/"
+    },
+    {
+      "name": "Korean Ubuntu team wiki",
+      "category": "wiki",
+      "url": "https://wiki.ubuntu.com/KoreanTeam"
+    },
+    {
+      "name": "Summary",
+      "category": "others",
+      "url": "http://loco.ubuntu.com/teams/ubuntu-ko/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-15T12:43:19.477Z"
+  },
+  "api": "1.0.0"
+}

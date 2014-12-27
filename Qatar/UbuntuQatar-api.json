@@ -1,0 +1,42 @@
+{
+  "name": "Ubuntu Qatar",
+  "url": "https://wiki.ubuntu.com/QatariTeam",
+  "location": {
+    "city": "Western Asia",
+    "country": "QA",
+    "lat": 25.3,
+    "lon": 51.5167
+  },
+  "contact": {
+    "email": "ubuntu-qa@lists.ubuntu.com",
+    "irc": "irc://freenode.net/#ubuntu-qa",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-qa",
+    "facebook": "https://www.facebook.com/groups/ubuntuqatar/",
+    "googleplus": "https://plus.google.com/+UbuntuqaBlogspotQatar/posts"
+  },
+  "timeline": [
+    {
+      "description": "Created on",
+      "timestamp": "2012-09-30",
+      "url": "https://launchpad.net/~ubuntu-qa"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "wiki",
+      "url": "https://wiki.ubuntu.com/QatariTeam"
+    },
+    {
+      "category": "forum",
+      "url": "http://qa.ubuntuforums.org/"
+    },
+    {
+      "category": "blog",
+      "url": "http://ubuntu-qa.blogspot.com/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T07:44:58.545Z"
+  },
+  "api": "1.0.0"
+}

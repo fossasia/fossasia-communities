@@ -1,0 +1,26 @@
+﻿{
+  "name": "Novosibirsk Linux User Group",
+  "url": "http://lugnsk.org",
+  "location": {
+    "city": "Novosibirsk",
+    "country": "RU",
+    "lat": 55.0167,
+    "lon": 82.9333
+  },
+  "contact": {
+    "email": "team@lugnsk.org",
+    "googleplus": "https://plus.google.com/+LugnskOrg"
+  },
+  "feeds": [
+    {
+      "name": "GNU/Linux Novosibirsk",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://lugnsk.org/feed"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T10:26:45.191Z"
+  },
+  "api": "1.0.0"
+}

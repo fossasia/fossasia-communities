@@ -1,0 +1,24 @@
+{
+  "name": "OpenMM",
+  "url": "http://www.openmm.net/index.htm",
+  "location": {
+    "city": "Myanmar",
+    "country": "MM",
+    "lat": 22,
+    "lon": 96
+  },
+  "contact": {
+    "email": "thetmgu@solvewaresolution.net"
+  },
+  "timeline": [
+    {
+      "description": "Group creation",
+      "timestamp": "2003-01-01",
+      "url": "http://www.openmm.net/aboutus.htm"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T20:05:29.895Z"
+  },
+  "api": "1.0.0"
+}

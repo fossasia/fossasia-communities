@@ -1,0 +1,23 @@
+{
+  "name": "HøLUG: The GNU/Linux User Group of Høz",
+  "url": "http://h0lug.sourceforge.net/",
+  "location": {
+    "city": "Ho Chi Minh",
+    "country": "VN",
+    "lat": 10.75,
+    "lon": 106.667
+  },
+  "contact": {
+    "email": "h0tp@users.sourceforge.net"
+  },
+  "timeline": [
+    {
+      "description": "Group creation",
+      "timestamp": "2001-08-31"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T12:42:59.926Z"
+  },
+  "api": "1.0.0"
+}

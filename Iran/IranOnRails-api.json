@@ -1,0 +1,29 @@
+{
+  "name": "Iran On Rails",
+  "url": "http://iranonrails.ir/",
+  "location": {
+    "city": "Middle East",
+    "country": "IR",
+    "lat": 32,
+    "lon": 53
+  },
+  "contact": {
+    "email": "info@iranonrails.ir",
+    "phone": "+989366452290",
+    "irc": "irc://freenode.net/#iranonrails",
+    "facebook": "https://www.facebook.com/iranonrails/info?tab=page_info",
+    "twitter": "@iranonrails",
+    "googleplus": "https://plus.google.com/+IranonrailsIrCommunity"
+  },
+  "feeds": [
+    {
+      "name": "Github",
+      "category": "others",
+      "url": "https://github.com/IranOnRails.atom"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T18:09:14.526Z"
+  },
+  "api": "1.0.0"
+}

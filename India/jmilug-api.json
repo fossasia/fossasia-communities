@@ -1,0 +1,25 @@
+{
+  "name": "Jamia Millia Islamia - Linux User's Group",
+  "url": "http://www.jmilug.org/cms/",
+  "location": {
+    "city": "New Delhi",
+    "country": "IN",
+    "lat": 28.6,
+    "lon": 77.2
+  },
+  "contact": {
+    "irc": "irc://freenode.net/jmilug",
+    "twitter": "@jmilug",
+    "googleplus": "https://plus.google.com/103791766535985599543"
+  },
+  "timeline": [
+    {
+      "description": "Creation of the group",
+      "timestamp": "2005-06-01"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-15T12:46:57.035Z"
+  },
+  "api": "1.0.0"
+}

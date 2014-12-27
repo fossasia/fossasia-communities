@@ -1,0 +1,28 @@
+{
+  "name": "Durgapur-lug",
+  "url": "http://www.dgplug.org/",
+  "location": {
+    "city": "Durgapur",
+    "country": "IN",
+    "lat": 23.55,
+    "lon": 87.32
+  },
+  "contact": {
+    "email": "kushaldas@gmail.com",
+    "irc": "irc://#dgplug",
+    "ml": "http://lists.dgplug.org/listinfo.cgi/users-dgplug.org",
+    "twitter": "@samikshan"
+  },
+  "state": {
+    "logo": "http://www.dgplug.org/assets/img/main-dgp.png",
+    "lastchange": "2014-12-25T13:22:09.653Z"
+  },
+  "timeline": [
+    {
+      "description": " one day workshop in Bethune college, Kolkata. Had around 20 students as participants. The goal of this work was to introduce Fedora as an alternative OS for the students.",
+      "timestamp": "2014-12-14",
+      "url": "http://planet.dgplug.org/"
+    }
+  ],
+  "api": "1.0.1"
+}

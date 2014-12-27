@@ -1,0 +1,36 @@
+{
+  "name": "OpenDevCam",
+  "url": "http://www.opendevelopmentcambodia.net/",
+  "location": {
+    "city": "Phnom Penh",
+    "country": "KH",
+    "lat": 11.55,
+    "lon": 104.9167,
+    "address": {
+      "Street": "43 St. 208"
+    }
+  },
+  "contact": {
+    "email": "info@opendevcam.net",
+    "phone": "(855) 23 224 782",
+    "facebook": "https://www.facebook.com/OpenDevCam",
+    "twitter": "@opendevcam"
+  },
+  "timeline": [
+    {
+      "description": "Created on",
+      "timestamp": "2011-08-16",
+      "url": "https://www.facebook.com/OpenDevCam/info?tab=milestone"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "blog",
+      "url": "http://www.opendevelopmentcambodia.net/blog_page/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-23T14:38:41.311Z"
+  },
+  "api": "1.0.0"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ruby community of Nepal",
+  "url": "http://www.rubynepal.org/",
+  "location": {
+    "city": "South Asia",
+    "country": "NP",
+    "lat": 26.5333,
+    "lon": 86.7333
+  },
+  "contact": {
+    "email": "info@rubynepal.org",
+    "twitter": "@ruby_nepal"
+  },
+  "feeds": [
+    {
+      "name": "Projects",
+      "category": "others",
+      "url": "http://www.rubynepal.org/made-in-nepal/"
+    },
+    {
+      "category": "blog",
+      "url": "http://www.rubynepal.org/blog/index.html"
+    },
+    {
+      "category": "others",
+      "type": "atom",
+      "url": "http://www.rubynepal.org/atom.xml"
+    },
+    {
+      "name": "Github",
+      "category": "others",
+      "url": "https://github.com/rubynepal"
+    },
+    {
+      "name": "google group",
+      "category": "forum",
+      "url": "https://groups.google.com/forum/#!forum/ror-nepal"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T17:43:38.665Z"
+  },
+  "api": "1.0.0"
+}

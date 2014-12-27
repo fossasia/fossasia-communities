@@ -1,0 +1,28 @@
+{
+  "name": "Indian linux user group - Chennai",
+  "url": "http://ilugc.in",
+  "location": {
+    "city": "Chennai",
+    "country": "IN",
+    "lat": 12.991773,
+    "lon": 80.228627
+  },
+  "contact": {
+    "email": "tshrinivasan@gmai.com",
+    "ml": "http://www.ae.iitm.ac.in/pipermail/ilugc/",
+    "facebook": "https://www.facebook.com/pages/ILUGC"
+  },
+  "metacommunity": "Linux-chennai",
+  "feeds": [
+    {
+      "name": "ilugc.in  Feed",
+      "category": "podcast",
+      "type": "rss",
+      "url": "http://ilugc.in/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T13:18:20.364Z"
+  },
+  "api": "1.0.0"
+}

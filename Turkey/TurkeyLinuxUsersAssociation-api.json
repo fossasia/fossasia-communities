@@ -1,0 +1,29 @@
+{
+  "name": "Turkey Linux Users Association",
+  "url": "http://www.lkd.org.tr/en/hakkimizda/tarihce/",
+  "location": {
+    "city": "Istanbul",
+    "country": "TR",
+    "lat": 39.8171395,
+    "lon": 32.64676
+  },
+  "metacommunity": "Linux-tr",
+  "contact": {
+    "identica": "http://identi.ca/lkdtr",
+    "facebook": "http://www.facebook.com/lkdtr",
+    "twitter": "@lkdtr",
+    "googleplus": "https://plus.google.com/112223499431908086443"
+  },
+  "feeds": [
+    {
+      "name": "Linux Kullanıcıları Derneği RSS Feed",
+      "category": "blog",
+      "type": "application/rss+xml",
+      "url": "http://www.lkd.org.tr/en/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T09:55:17.386Z"
+  },
+  "api": "1.0.0"
+}

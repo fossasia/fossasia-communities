@@ -1,0 +1,17 @@
+{
+  "name": "The Coimbatore Linux User Group",
+  "url": "https://groups.yahoo.com/neo/groups/cbe-linux/",
+  "location": {
+    "city": "coimbatore",
+    "country": "IN",
+    "lat": 11.0183,
+    "lon": 76.9725
+  },
+  "contact": {
+    "email": "cbe-linux@yahoogroups.com"
+  },
+  "state": {
+    "lastchange": "2014-12-25T12:44:37.529Z"
+  },
+  "api": "1.0.1"
+}

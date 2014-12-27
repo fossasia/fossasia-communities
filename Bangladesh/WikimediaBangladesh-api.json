@@ -1,0 +1,22 @@
+{
+  "name": "Wikimedia Bangladesh",
+  "url": "http://bd.wikimedia.org/wiki/প্রধান_পাতা",
+  "location": {
+    "city": "Dhaka",
+    "country": "BD",
+    "lat": 23.740117,
+    "lon": 90.389771
+  },
+  "contact": {
+    "email": "wm-bd@wikimedia.org",
+    "ml": "https://lists.wikimedia.org/mailman/listinfo/wikimedia-bd",
+    "identica": "http://identi.ca/wikimediabd",
+    "facebook": "http://www.facebook.com/wikimediabd",
+    "twitter": "@wikimediabd",
+    "googleplus": "http://plus.google.com/101918607631503934751"
+  },
+  "state": {
+    "lastchange": "2014-12-24T07:44:39.156Z"
+  },
+  "api": "1.0.1"
+}

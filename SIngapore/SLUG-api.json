@@ -1,0 +1,24 @@
+{
+  "name": "SUSE Linux User Group - Singapore",
+  "url": "http://www.slug-sg.org/",
+  "location": {
+    "city": "Singapore",
+    "country": "SG",
+    "lat": 1.3,
+    "lon": 103.8
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/pages/openSUSE-Singapore/98569599976",
+    "googleplus": "https://plus.google.com/109974888121878499853"
+  },
+  "timeline": [
+    {
+      "description": "Joined Facebook",
+      "timestamp": "2009-10-08"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-17T04:44:00.827Z"
+  },
+  "api": "1.0.0"
+}

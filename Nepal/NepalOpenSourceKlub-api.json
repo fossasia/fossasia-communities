@@ -1,0 +1,31 @@
+{
+  "name": "Nepal Open Source Klub",
+  "url": "http://www.nosk.org.np/",
+  "location": {
+    "city": "Kathmandu",
+    "country": "NP",
+    "lat": 26.5333,
+    "lon": 86.7333,
+    "address": {
+      "Name": "Balkumari, lalitpur"
+    }
+  },
+  "contact": {
+    "email": "info@nosk.org.np",
+    "irc": "irc://freenode.net/#nosk",
+    "ml": "open-nosk@googlegroups.com",
+    "facebook": "https://www.facebook.com/nosklub",
+    "twitter": "@open_nosk",
+    "googleplus": "https://plus.google.com/communities/110589297196280370630"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2008-02-28"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-13T12:52:18.817Z"
+  },
+  "api": "1.0.0"
+}

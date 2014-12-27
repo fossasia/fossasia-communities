@@ -1,0 +1,20 @@
+{
+  "name": "Omsk Linux User Group",
+  "url": "http://omsklug.com/",
+  "location": {
+    "city": "Omsk",
+    "country": "RU",
+    "lat": 55.0437971,
+    "lon": 73.3043503
+  },
+  "contact": {
+    "email": "post@omsklug.com",
+    "facebook": "https://www.facebook.com/groups/omsklinuxusergroup/",
+    "twitter": "@omsklug",
+    "googleplus": "https://plus.google.com/+Omsklug/"
+  },
+  "state": {
+    "lastchange": "2014-12-25T10:04:19.622Z"
+  },
+  "api": "1.0.1"
+}

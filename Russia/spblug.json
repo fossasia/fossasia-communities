@@ -1,0 +1,26 @@
+{
+  "name": "Saint Petersburg Linux User Group",
+  "url": "http://spblug.org/index.en.html",
+  "location": {
+    "city": "Saint Petersburg",
+    "country": "RU",
+    "lat": 59.95,
+    "lon": 30.3
+  },
+  "contact": {
+    "email": "info@spblug.org",
+    "irc": "irc://freenode.net/spblug",
+    "ml": "http://groups.google.com/group/spblinux/",
+    "googleplus": "https://plus.google.com/109127630753609453011"
+  },
+  "timeline": [
+    {
+      "description": "Creation of the group",
+      "timestamp": "1996-01-01"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T13:27:32.002Z"
+  },
+  "api": "1.0.0"
+}

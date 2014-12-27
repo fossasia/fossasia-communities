@@ -1,0 +1,23 @@
+{
+  "name": "Sun City Jodhpur LUG",
+  "url": "http://www.geocities.com/sunnylug",
+  "location": {
+    "city": "Jodhpur",
+    "country": "IN",
+    "lat": 26.28,
+    "lon": 73.02
+  },
+  "contact": {
+    "email": "tarunkant@linuxmail.org"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2003-05-14"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-25T12:33:14.506Z"
+  },
+  "api": "1.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "JoLug",
+  "url": "http://www.jolug.org/",
+  "location": {
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.933,
+    "lon": 35.917
+  },
+  "contact": {
+    "email": "opensource@just.edu.jo",
+    "ml": "jolug@googlegroups.com"
+  },
+  "timeline": [
+    {
+      "description": "Group has been created",
+      "timestamp": "2006-11-12"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.jolug.org/ar/rss.xml"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-12T14:07:06.494Z"
+  },
+  "api": "1.0.0"
+}

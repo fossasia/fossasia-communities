@@ -1,0 +1,39 @@
+{
+  "name": "Q8linux",
+  "url": "http://www.q8linux.net/",
+  "location": {
+    "city": "Kuwait",
+    "country": "KW",
+    "lat": 29.367,
+    "lon": 47.967
+  },
+  "contact": {
+    "email": "Q8linux@gmail.com",
+    "facebook": "https://www.facebook.com/TheLinuxFoundation",
+    "twitter": "@q8linux"
+  },
+  "timeline": [
+    {
+      "description": "Group has been created",
+      "timestamp": "2004-03-01"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Forum Feed",
+      "category": "forum",
+      "type": "rss",
+      "url": "http://www.q8linux.net/feeds-2-rss20.xml"
+    },
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.q8linux.net/feeds-1-rss20.xml"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-11T15:29:03.791Z"
+  },
+  "api": "1.0.0"
+}

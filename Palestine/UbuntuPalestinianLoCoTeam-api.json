@@ -1,0 +1,38 @@
+{
+  "name": "Ubuntu Palestinian LoCo Team",
+  "url": "https://wiki.ubuntu.com/PalestineTeam",
+  "location": {
+    "city": "Western Asia",
+    "country": "PS",
+    "lat": 31.6253,
+    "lon": 35.1453
+  },
+  "contact": {
+    "email": "ubuntu-ps@lists.ubuntu.com",
+    "irc": "irc://freenode.net/#ubuntu-ps",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-ps",
+    "facebook": "https://www.facebook.com/UbuntuPalestine",
+    "twitter": "@ubuntups"
+  },
+  "timeline": [
+    {
+      "description": "Created on",
+      "timestamp": "2011-09-28",
+      "url": "https://launchpad.net/~ubuntu-ps"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "wiki",
+      "url": "https://wiki.ubuntu.com/PalestineTeam"
+    },
+    {
+      "category": "forum",
+      "url": "http://palestine.ubuntuforums.org/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T14:05:43.037Z"
+  },
+  "api": "1.0.0"
+}
