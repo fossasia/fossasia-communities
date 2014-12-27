@@ -1,0 +1,26 @@
+{
+  "name": "Madurai-GLUG",
+  "url": "http://www.glug-madurai.org/",
+  "location": {
+    "city": "Madurai",
+    "country": "IN",
+    "lat": 9.9197,
+    "lon": 78.1194,
+    "address": {
+      "Name": "Seminar Hall, Department of CSE, TCE."
+    }
+  },
+  "contact": {
+    "email": "glug-madurai-discuss@lists.sourceforge.net"
+  },
+  "state": {
+    "lastchange": "2014-12-25T12:55:07.524Z"
+  },
+  "timeline": [
+    {
+      "description": "Run your computers within VirtualBox. Meeting details:-",
+      "timestamp": "2014-08-19"
+    }
+  ],
+  "api": "1.0.1"
+}
