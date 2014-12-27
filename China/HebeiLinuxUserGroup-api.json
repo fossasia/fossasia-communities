@@ -1,28 +1,30 @@
 {
-  "name": "Hebei Linux User Group",
-  "url": "http://www.heblug.org/",
-  "location": {
-    "city": "Hebei",
-    "country": "CN",
-    "lat": 35,
-    "lon": 103
-  },
-  "contact": {
-    "email": "info@heblug.org",
-    "ml": "http://list.heblug.org/mailman/listinfo/g-heblug"
-  },
-  "feeds": [
-    {
-      "name": "weibo",
-      "category": "blog",
-      "url": "http://weibo.com/heblug"
-      "name": "others",
-      "type" : "rss",
-      "url": "https://heblug.disqus.com/latest.rss"
-    }
-  ],
-  "state": {
-    "lastchange": "2014-12-15T10:22:56.269Z"
-  },
-  "api": "1.0.0"
+    "name": "Hebei Linux User Group",
+    "url": "http://www.heblug.org/",
+    "location": {
+        "city": "Hebei",
+        "country": "CN",
+        "lat": 35,
+        "lon": 103
+    },
+    "contact": {
+        "email": "info@heblug.org",
+        "ml": "http://list.heblug.org/mailman/listinfo/g-heblug"
+    },
+    "feeds": [
+        {
+            "name": "weibo",
+            "category": "blog",
+            "url": "http://weibo.com/heblug"
+        },
+        {
+            "name": "others",
+            "type": "rss",
+            "url": "https://heblug.disqus.com/latest.rss"
+        }
+    ],
+    "state": {
+        "lastchange": "2014-12-15T10:22:56.269Z"
+    },
+    "api": "1.0.0"
 }
