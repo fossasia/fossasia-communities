@@ -1,0 +1,46 @@
+{
+  "name": "AIOUG",
+  "url": "http://www.aioug.org/",
+  "location": {
+    "city": "Bangalore",
+    "country": "IN",
+    "lat": 12.9667,
+    "lon": 77.5667,
+    "address": {
+      "Name": "AIOUG Headquarters",
+      "Street": "P34, 6th Main, Sector X, HAL IIIrd Stage",
+      "Zipcode": "560075"
+    }
+  },
+  "contact": {
+    "email": "info@aioug.org",
+    "facebook": "https://www.facebook.com/aioug",
+    "twitter": "@aioug"
+  },
+  "state": {
+    "logo": "http://www.aioug.org/images/logo.png",
+    "lastchange": "2014-12-27T17:49:38.151Z"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2007-06-28",
+      "url": "http://aioug.org"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "News Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.aioug.org/feed/newsfeed.xml"
+    },
+    {
+      "name": "Events Feed",
+      "category": "others",
+      "type": "rss",
+      "url": "http://www.aioug.org/events/index.php?format=feed&type=rss"
+    }
+  ],
+  "api": "1.0.1"
+}
