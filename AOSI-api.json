@@ -15,9 +15,17 @@
     "phone": "+62 21 7972204",
     "facebook": "https://www.facebook.com/pages/Asosiasi-Open-Source-Indonesia/243583669024569"
   },
+  "feeds": [
+    {
+      "name": "AOSI Blog",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://aosi.or.id/feed/"
+    }
+  ],
   "state": {
     "logo": "http://i.imgur.com/X0sdeQ5.jpg",
-    "lastchange": "2014-12-24T07:58:29.209Z"
+    "lastchange": "2014-12-27T07:58:29.209Z"
   },
   "api": "1.0.1"
 }
