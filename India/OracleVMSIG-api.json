@@ -40,7 +40,7 @@
       "name": "Blog Feed",
       "category": "blog",
       "type": "rss",
-      "url": "http://oraclevmsig.wordpress.com/"
+      "url": "http://oraclevmsig.wordpress.com/feed/"
     }
   ],
   
