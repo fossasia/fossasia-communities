@@ -1,0 +1,26 @@
+{
+  "name": "JLC - Linux in Jerusalem",
+  "url": "http://jlc.shared.mirimar.net/",
+  "location": {
+    "city": "Jerusalem",
+    "country": "IL",
+    "lat": 31.783,
+    "lon": 35.217
+  },
+  "contact": {
+    "email": "sandman@cs.huji.ac.il",
+    "ml": "http://hamakor.org.il/cgi-bin/mailman/listinfo/jlc"
+  },
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://jlc.shared.mirimar.net/rss/rss_lectures.php"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T11:55:15.774Z"
+  },
+  "api": "1.0.0"
+}

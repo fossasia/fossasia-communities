@@ -1,0 +1,21 @@
+{
+  "name": "The Haifa Linux club",
+  "url": "http://haifux.org/index.html",
+  "location": {
+    "city": "Haifa",
+    "country": "IL",
+    "lat": 32.817,
+    "lon": 34.983,
+    "address": {
+      "Name": "Technion's Computer Science Faculty"
+    }
+  },
+  "contact": {
+    "ml": "http://haifux.org/mailman/listinfo/haifux",
+    "facebook": "https://www.facebook.com/groups/112112232160108/"
+  },
+  "state": {
+    "lastchange": "2014-12-22T11:47:06.133Z"
+  },
+  "api": "1.0.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dubai DevNights Meetup",
+  "url": "http://www.devnights.com/",
+  "location": {
+    "city": "Dubai",
+    "country": "AE",
+    "lat": 24.95,
+    "lon": 55.3333
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/devnights",
+    "twitter": "@DevNights"
+  },
+  "timeline": [
+    {
+      "description": "founded",
+      "timestamp": "2014-06-09"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-13T00:56:40.512Z"
+  },
+  "api": "1.0.0"
+}

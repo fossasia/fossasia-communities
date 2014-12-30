@@ -1,0 +1,33 @@
+{
+  "name": "Mozilla Myanmar",
+  "url": "http://mozillamyanmar.org/",
+  "location": {
+    "city": "Myanmar",
+    "country": "MM",
+    "lat": 22,
+    "lon": 96
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/mozillamyanmar",
+    "twitter": "@mozillamyanmar"
+  },
+  "timeline": [
+    {
+      "description": "Group creation",
+      "timestamp": "2011-11-01",
+      "url": "http://mozillamyanmar.org/about-us/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://mozillamyanmar.org/feed/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T19:56:19.871Z"
+  },
+  "api": "1.0.0"
+}

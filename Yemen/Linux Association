@@ -1,0 +1,18 @@
+{
+  "name": "Yemeni GNU/Linux Association",
+  "url": "http://www.linuxarabia.org/",
+  "location": {
+    "city": "Sana",
+    "country": "YE",
+    "lat": 15.3483,
+    "lon": 44.2064
+  },
+  "contact": {
+    "email": "rami@yfosa.org"
+  },
+  "state": {
+    "logo": "http://www.linuxarabia.org/images/logo-1.png",
+    "lastchange": "2014-12-23T17:36:29.940Z"
+  },
+  "api": "1.0.1"
+}

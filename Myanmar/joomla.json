@@ -1,0 +1,25 @@
+{
+  "name": "Joomla! User Group Mandalay",
+  "url": "http://community.joomla.org/user-groups/asia-pacific/myanmar/joomla-mandalay-myanmar.html",
+  "location": {
+    "city": "Mandalay",
+    "country": "MM",
+    "lat": 21.967,
+    "lon": 96.083
+  },
+  "contact": {
+    "email": "kyawkyawhtun.mdy@gmail.com",
+    "facebook": "http://www.facebook.com/pages/Joomla-Day-Mandalay/168500839851024",
+    "twitter": "@JMandalay"
+  },
+  "timeline": [
+    {
+      "description": "Group creation date",
+      "timestamp": "2010-11-26"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T22:03:50.909Z"
+  },
+  "api": "1.0.0"
+}

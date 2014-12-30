@@ -1,0 +1,63 @@
+{
+  "name": "KolkataNET",
+  "url": "http://www.kolkatanet.com/",
+  "location": {
+    "city": "Kolkata",
+    "country": "IN",
+    "lat": 22.5667,
+    "lon": 88.3667,
+    "address": {
+      "Name": "Microsoft Corporation (India) Pvt. Ltd.,16",
+      "Street": " Camac Street",
+      "Zipcode": "700017"
+    }
+  },
+  "contact": {
+    "email": "admin@kolkatanet.com",
+    "twitter": "@kolkatanet"
+  },
+  "metacommunity": "ineta",
+  "timeline": [
+    {
+      "description": "First UG Meet ",
+      "timestamp": "2008-02-16",
+      "url": "http://www.kolkatanet.com/news/view.aspx?articleid=2"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "News Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.kolkatanet.com/RSS/NewsRss.aspx"
+    },
+    {
+      "name": "Forums Feed",
+      "category": "forum",
+      "type": "rss",
+      "url": "http://www.kolkatanet.com/RSS/AllPostsRss.aspx"
+    },
+    {
+      "name": "Events RSS",
+      "category": "others",
+      "type": "rss",
+      "url": "http://www.kolkatanet.com/RSS/EventRss.aspx"
+    },
+    {
+      "name": "Blogs RSS",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.kolkatanet.com/RSS/BlogsRss.aspx"
+    },
+    {
+      "name": "Photo Album RSS",
+      "category": "others",
+      "type": "rss",
+      "url": "http://www.kolkatanet.com/RSS/AlbumsRss.aspx"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T07:38:37.401Z"
+  },
+  "api": "1.0.0"
+}

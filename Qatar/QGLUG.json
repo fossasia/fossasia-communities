@@ -1,0 +1,39 @@
+{
+  "name": "QGLUG",
+  "url": "http://qglug.org/",
+  "location": {
+    "city": "Doha",
+    "country": "QA",
+    "lat": 25.283,
+    "lon": 51.533
+  },
+  "contact": {
+    "ml": "http://lists.qglug.org/mailman/listinfo/list",
+    "twitter": "@qglug"
+  },
+  "timeline": [
+    {
+      "description": "First meeting of the group",
+      "timestamp": "2005-01-06",
+      "url": "http://qglug.org/?page_id=2"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://qglug.org/?feed=rss2"
+    },
+    {
+      "name": "Comment RSS Feed",
+      "category": "forum",
+      "type": "rss",
+      "url": "http://qglug.org/?feed=comments-rss2"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-11T14:47:40.084Z"
+  },
+  "api": "1.0.0"
+}

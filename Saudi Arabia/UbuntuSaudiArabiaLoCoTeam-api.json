@@ -1,0 +1,34 @@
+{
+  "name": "Ubuntu Saudi Arabia LoCo Team",
+  "url": "https://wiki.ubuntu.com/SaudiTeam/English",
+  "location": {
+    "city": "Western Asia",
+    "country": "SA",
+    "lat": 24,
+    "lon": 45
+  },
+  "contact": {
+    "irc": "irc://freenode.net/ #ubuntu-sa"
+  },
+  "timeline": [
+    {
+      "description": "founded ",
+      "timestamp": "2010-04-14",
+      "url": "https://launchpad.net/~ubuntu-sa"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "forum",
+      "url": "http://ubuntuforums.org/forumdisplay.php?f=264"
+    },
+    {
+      "category": "forum",
+      "url": "https://groups.google.com/forum/#!forum/ubuntu-sa"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-19T17:21:20.028Z"
+  },
+  "api": "1.0.0"
+}

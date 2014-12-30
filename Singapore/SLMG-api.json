@@ -1,0 +1,30 @@
+{
+  "name": "The Singapore Linux Meetup Group",
+  "url": "http://www.meetup.com/sg-linux/",
+  "location": {
+    "city": "Singapore",
+    "country": "SG",
+    "lat": 1.3,
+    "lon": 103.8
+  },
+  "contact": {
+    "email": "lumbrandon@gmail.com"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2002-10-09"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Meetup",
+      "category": "others",
+      "url": "http://www.meetup.com/sg-linux"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-17T04:37:54.153Z"
+  },
+  "api": "1.0.0"
+}

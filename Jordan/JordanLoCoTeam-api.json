@@ -1,0 +1,36 @@
+{
+  "name": "Jordan LoCo Team ",
+  "url": "https://wiki.ubuntu.com/JordanTeam",
+  "location": {
+    "city": " Western Asia",
+    "country": "JO",
+    "lat": 31.95,
+    "lon": 35.9333
+  },
+  "contact": {
+    "email": "ubuntu-jo@lists.ubuntu.com",
+    "irc": "irc://freenode.net/#ubuntu-Jo",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-jo"
+  },
+  "timeline": [
+    {
+      "description": "Created on",
+      "timestamp": "2008-01-25",
+      "url": "https://launchpad.net/~ubuntu-jordan"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "forum",
+      "url": "http://ubuntuforums.org/forumdisplay.php?f=320"
+    },
+    {
+      "category": "wiki",
+      "url": "https://wiki.ubuntu.com/JordanTeam"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T22:07:30.616Z"
+  },
+  "api": "1.0.0"
+}

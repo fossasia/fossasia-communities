@@ -1,0 +1,23 @@
+{
+  "name": "LinuxArabia",
+  "url": "http://www.linuxarabia.org/",
+  "location": {
+    "city": "Sana'a",
+    "country": "YE",
+    "lat": 15.333,
+    "lon": 44.2
+  },
+  "contact": {
+    "email": "rami@yfosa.org"
+  },
+  "timeline": [
+    {
+      "description": "Group created",
+      "timestamp": "1999-01-01"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-12T18:05:56.082Z"
+  },
+  "api": "1.0.0"
+}

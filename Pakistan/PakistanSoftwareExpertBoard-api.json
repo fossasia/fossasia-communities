@@ -1,0 +1,20 @@
+{
+  "name": "Pakistan Software Expert Board",
+  "url": "http://www.pseb.org.pk/",
+  "location": {
+    "city": "Islamabad",
+    "country": "PK",
+    "lat": 33.7167,
+    "lon": 73.0667
+  },
+  "contact": {
+    "email": "info@pseb.org.pk",
+    "phone": "+92-51-9204074",
+    "facebook": "https://www.facebook.com/PSEB.org",
+    "twitter": "@PSEB"
+  },
+  "state": {
+    "lastchange": "2014-12-16T07:35:10.470Z"
+  },
+  "api": "1.0.0"
+}

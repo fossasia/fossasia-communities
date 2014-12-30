@@ -1,0 +1,32 @@
+{
+  "name": "Moscow Linux User Group",
+  "url": "http://mlug.ru",
+  "location": {
+    "city": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.617
+  },
+  "contact": {
+    "phone": "+7 9151 020503"
+  },
+  "timeline": [
+    {
+      "description": "Re-creation of MLUG",
+      "timestamp": "2010-04-29",
+      "url": "http://mlug.ru/?page=about"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://mlug.ru/.xml/?type=rss"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T13:21:07.382Z"
+  },
+  "api": "1.0.0"
+}

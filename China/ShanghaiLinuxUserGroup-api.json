@@ -1,0 +1,33 @@
+{
+    "name": " Shanghai Linux User Group",
+    "url": "http://www.shlug.org/",
+    "location": {
+        "city": " Shanghai",
+        "country": "CN",
+        "lat": 35,
+        "lon": 103
+    },
+    "contact": {
+        "email": "ghosthomas@gmail.com",
+        "ml": "webmaster@shlug.org",
+        "facebook": "https://www.facebook.com/pages/Shanghai-Linux-User-Group/104871996219452?sk=info&tab=page_info",
+        "twitter": "@ShanghaiLUG"
+    },
+    "timeline": [
+        {
+            "description": "founded",
+            "timestamp": "1997-1-1"
+        }
+    ],
+    "feeds": [
+        {
+            "category": "others",
+            "type": "rss",
+            "url": "https://groups.google.com/forum/feed/shlug/topics/rss_v2_0.xml?num=20"
+        }
+    ],
+    "state": {
+        "lastchange": "2014-12-15T08:24:42.749Z"
+    },
+    "api": "1.0.0"
+}

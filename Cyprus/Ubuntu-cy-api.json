@@ -1,0 +1,39 @@
+{
+  "name": "Ubuntu-cy",
+  "url": "http://www.ubuntucy.org/",
+  "location": {
+    "city": "Latsia",
+    "country": "CY",
+    "lat": 35.1,
+    "lon": 33.367
+  },
+  "contact": {
+    "irc": "irc://freenode.net/ubuntu-cy",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-cy",
+    "twitter": "@savvasradevic/ubuntu-cy"
+  },
+  "timeline": [
+    {
+      "description": "Group created",
+      "timestamp": "2008-01-01"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main Atom Feed",
+      "category": "blog",
+      "type": "atom",
+      "url": "http://www.ubuntucy.org/forum/feed.php"
+    },
+    {
+      "name": "Forum feed",
+      "category": "forum",
+      "type": "atom",
+      "url": "http://www.ubuntucy.org/forum/feed.php?mode=forums"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-12T14:40:36.250Z"
+  },
+  "api": "1.0.0"
+}

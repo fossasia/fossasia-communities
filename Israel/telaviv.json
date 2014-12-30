@@ -1,0 +1,26 @@
+{
+  "name": "Tel Aviv Open Source Club",
+  "url": "http://www.cs.tau.ac.il/telux/",
+  "location": {
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.083,
+    "lon": 34.8
+  },
+  "contact": {
+    "email": "taux@cs.tau.ac.il",
+    "ml": "http://hamakor.org.il/cgi-bin/mailman/listinfo/telux"
+  },
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.cs.tau.ac.il/telux/rss.xml"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T11:42:14.386Z"
+  },
+  "api": "1.0.0"
+}

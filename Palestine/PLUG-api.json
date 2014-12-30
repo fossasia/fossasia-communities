@@ -1,0 +1,31 @@
+{
+  "name": "PLUG",
+  "url": "http://plug.ps/",
+  "location": {
+    "city": "Birzeit",
+    "country": "PS",
+    "lat": 31.967,
+    "lon": 35.183
+  },
+  "contact": {
+    "ml": "http://box905.bluehost.com/mailman/listinfo/list_plug.ps"
+  },
+  "timeline": [
+    {
+      "description": "Group creation date",
+      "timestamp": "2005-11-15"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main RSS Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://plug.ps/index.php?option=com_rss&feed=RSS2.0&no_html=1"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-12T18:18:31.096Z"
+  },
+  "api": "1.0.0"
+}
