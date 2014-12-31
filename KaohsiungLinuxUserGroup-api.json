@@ -1,0 +1,19 @@
+{
+  "name": "Kaohsiung Linux User Group",
+  "url": "http://kalug.linux.org.tw/",
+  "location": {
+    "city": "Kaohsiung",
+    "country": "TW",
+    "lat": 23.0108714,
+    "lon": 120.6660044
+  },
+  "contact": {
+    "email": "contact@kalug.linux.org.tw",
+    "facebook": "https://www.facebook.com/groups/KSDGroup/",
+    "googleplus": "https://plus.google.com/communities/113465528091946960161"
+  },
+  "state": {
+    "lastchange": "2014-12-26T14:22:04.084Z"
+  },
+  "api": "1.0.1"
+}
