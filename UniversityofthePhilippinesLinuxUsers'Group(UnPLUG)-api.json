@@ -1,0 +1,22 @@
+{
+  "name": "University of the Philippines Linux Users' Group (UnPLUG)",
+  "url": "http://web.uplug.org/",
+  "location": {
+    "city": "Quezon City",
+    "country": "PH",
+    "lat": 14.6333,
+    "lon": 121.0333,
+    "address": {
+      "Name": "Tambayan Complex",
+      "Street": "Vinzons Hall,UP Diliman",
+      "Zipcode": " 1104"
+    }
+  },
+  "contact": {
+    "email": "info@uplug.org"
+  },
+  "state": {
+    "lastchange": "2014-12-31T09:01:38.963Z"
+  },
+  "api": "1.0.1"
+}
