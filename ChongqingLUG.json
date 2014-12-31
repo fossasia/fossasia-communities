@@ -1,0 +1,26 @@
+{
+  "name": "ChongqingLUG",
+  "url": "http://www.chongqinglug.org",
+  "location": {
+    "city": "Chongqing",
+    "country": "CN",
+    "lat": 29.5583,
+    "lon": 106.5667
+  },
+  "contact": {
+    "email": "bootingman@chongqinglug.org",
+    "phone": "+86-23-60374947",
+    "irc": "irc://webchat.freenode.net/chongqinglug",
+    "googleplus": "https://plus.google.com/b/107213821464014721807/communities/107917159329803156860"
+  },
+  "timeline": [
+    {
+      "description": "founded",
+      "timestamp": "2014-12-04"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-16T11:43:20.820Z"
+  },
+  "api": "1.0.0"
+}
