@@ -1,0 +1,33 @@
+{
+  "name": "Linux Japan",
+  "url": "https://jp.linux.com/",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.6895,
+    "lon": 139.6917
+  },
+  "contact": {
+    "facebook": "http://www.facebook.com/linuxfoundationjp",
+    "twitter": "@Linux_Fdtn_JP"
+  },
+  "timeline": [
+    {
+      "description": "Linux Foundation Collaboration Summit",
+      "timestamp": "2015-02-18",
+      "url": "http://events.linuxfoundation.jp/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Main Feed",
+      "category": "others",
+      "type": "rss",
+      "url": "https://jp.linux.com/index.php?option=com_ninjarsssyndicator&feed_id=1&format=raw"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-25T08:33:18.597Z"
+  },
+  "api": "1.0.1"
+}

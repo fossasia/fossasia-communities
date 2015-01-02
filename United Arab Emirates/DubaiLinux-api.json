@@ -1,0 +1,23 @@
+{
+  "name": "Dubai Linux",
+  "url": "http://www.meetup.com/dubai-linux/",
+  "location": {
+    "city": "Dubai",
+    "country": "AE",
+    "lat": 25.25817,
+    "lon": 55.30472
+  },
+  "contact": {
+    "email": "dubailug@yahoogroups.com"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2009-05-02"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-01T07:36:07.611Z"
+  },
+  "api": "1.0.1"
+}

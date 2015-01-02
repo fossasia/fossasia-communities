@@ -1,0 +1,16 @@
+{
+  "name": "Maldives Open Source Society",
+  "location": {
+    "city": "Male",
+    "country": "MV",
+    "lat": 4.1753,
+    "lon": 73.5089
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/pages/Maldives-Open-Source-Society-MOSS/134469546607627"
+  },
+  "state": {
+    "lastchange": "2014-12-19T11:44:25.617Z"
+  },
+  "api": "1.0.0"
+}

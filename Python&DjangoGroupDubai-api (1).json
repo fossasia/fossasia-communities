@@ -1,0 +1,17 @@
+{
+  "name": "Python & Django Group Dubai",
+  "url": "http://www.meetup.com/Python-Django-Group/",
+  "location": {
+    "city": "Dubai",
+    "country": "AE",
+    "lat": 24.95,
+    "lon": 55.3333
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/arnjak"
+  },
+  "state": {
+    "lastchange": "2014-12-31T17:27:27.877Z"
+  },
+  "api": "1.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "TAFS Techno Geeks",
+  "url": "http://www.tafstg.com",
+  "location": {
+    "city": "New Delhi",
+    "country": "IN",
+    "lat": 28.6139,
+    "lon": 77.2089,
+    "address": {
+      "Name": "The Air Force School",
+      "Street": "Subroto Park",
+      "Zipcode": "110010"
+    }
+  },
+  "contact": {
+    "email": "contactus@tafstg.com",
+    "phone": "91-11-25693063",
+    "facebook": "https://www.facebook.com/tafstg"
+  },
+  "state": {
+    "lastchange": "2014-12-19T11:27:21.100Z"
+  },
+  "api": "1.0.0"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Python Japan",
+  "url": "http://www.python.jp/",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.6895,
+    "lon": 139.6917
+  },
+  "contact": {
+    "email": "satoshi.yoshida.jp@gmail.com",
+    "ml": "http://www.python.jp/mailman/listinfo/python-ml-jp"
+  },
+  "metacommunity": "Python Software Foundation",
+  "state": {
+    "logo": "http://www.python.jp/theme/images/pyjug.png",
+    "lastchange": "2014-12-25T07:26:42.105Z"
+  },
+  "timeline": [
+    {
+      "description": "Programming in BeagleBoneBlack experience seminarPython",
+      "timestamp": "2014-11-23",
+      "url": "http://store.techshare.jp/shopdetail/000000000782/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "All Feed",
+      "category": "others",
+      "type": "atom",
+      "url": "http://www.python.jp/all.atom.xml"
+    },
+    {
+      "name": "News Feed",
+      "category": "others",
+      "type": "rss",
+      "url": "http://www.python.jp/channews.rdf"
+    }
+  ],
+  "api": "1.0.1"
+}

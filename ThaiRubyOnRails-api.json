@@ -1,0 +1,32 @@
+{
+  "name": "Thai Ruby On Rails",
+  "url": "http://www.thairor.com/",
+  "location": {
+    "city": "Bangkok",
+    "country": "TH",
+    "lat": 13.75,
+    "lon": 100.4667
+  },
+  "contact": {
+    "ml": "https://groups.google.com/d/forum/thai-ruby-rails-user-group"
+  },
+  "timeline": [
+    {
+      "description": "Rails Camp",
+      "timestamp": "2010-11-13",
+      "url": "http://www.thairor.com/2010/10/blog-post.html"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Blog Feed",
+      "category": "blog",
+      "type": "rss",
+      "url": "https://www.blogger.com/feeds/5584161789534672434/posts/default"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-26T12:02:56.073Z"
+  },
+  "api": "1.0.1"
+}
