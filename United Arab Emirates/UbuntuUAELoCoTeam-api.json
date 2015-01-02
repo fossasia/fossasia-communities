@@ -1,0 +1,25 @@
+{
+  "name": "Ubuntu UAE LoCo Team",
+  "url": "http://loco.ubuntu.com/teams/ubuntu-ae/",
+  "location": {
+    "city": "Southwest Asia",
+    "country": "AE",
+    "lat": 24.95,
+    "lon": 55.3333
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/#ubuntu-ae",
+    "ml": "ubuntu-ae@lists.launchpad.net"
+  },
+  "timeline": [
+    {
+      "description": "Founded on",
+      "timestamp": "2010-07-01",
+      "url": "https://launchpad.net/~ubuntu-ae"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-02T00:02:32.074Z"
+  },
+  "api": "1.0.1"
+}
