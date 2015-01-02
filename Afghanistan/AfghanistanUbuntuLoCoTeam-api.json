@@ -1,0 +1,26 @@
+{
+  "name": "Afghanistan Ubuntu LoCo Team",
+  "url": "https://wiki.ubuntu.com/AfghanistanTeam",
+  "location": {
+    "city": "Central Asia",
+    "country": "AF",
+    "lat": 34.5333,
+    "lon": 69.1333
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/#ubuntu-af",
+    "ml": "ubuntu-af@lists.ubuntu.com",
+    "facebook": "https://www.facebook.com/Afghanistan.Ubuntu"
+  },
+  "timeline": [
+    {
+      "description": "founded on",
+      "timestamp": "2010-10-21",
+      "url": "https://launchpad.net/~ubuntu-af"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-02T11:35:37.781Z"
+  },
+  "api": "1.0.1"
+}

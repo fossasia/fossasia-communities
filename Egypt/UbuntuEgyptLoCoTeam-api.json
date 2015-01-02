@@ -1,0 +1,34 @@
+{
+  "name": "Ubuntu Egypt LoCo Team",
+  "url": "http://www.ubuntu-eg.org/",
+  "location": {
+    "city": " Northern Africa",
+    "country": "EG",
+    "lat": 26,
+    "lon": 30
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net /#ubuntu-eg",
+    "ml": "ubuntu-eg@lists.ubuntu.com",
+    "facebook": "https://www.facebook.com/ubuntueg",
+    "twitter": "@ubuntueg",
+    "googleplus": "https://plus.google.com/communities/116798785601177128262"
+  },
+  "feeds": [
+    {
+      "name": "Events",
+      "category": "others",
+      "type": "rss",
+      "url": "http://loco.ubuntu.com/feeds/events/ubuntu-eg/"
+    },
+    {
+      "name": "calender",
+      "category": "ics",
+      "url": "http://loco.ubuntu.com/events/ubuntu-eg/ical"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-02T11:54:07.220Z"
+  },
+  "api": "1.0.1"
+}
