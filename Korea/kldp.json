@@ -10,6 +10,14 @@
   "contact": {
     "email": "kss@kldp.org"
   },
+   "feeds": [
+    {
+      "name": "KLDP Wiki",
+      "category": "wiki",
+      "type": "xml",
+      "url": "https://wiki.kldp.org/wiki.php"
+    }
+  ],
   "state": {
     "lastchange": "2015-01-01T19:22:17.314Z"
   },
