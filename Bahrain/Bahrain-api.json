@@ -1,0 +1,47 @@
+{
+  "name": "Bahrain",
+  "url": "http://www.bahrain.bh/",
+  "location": {
+    "city": "Bahrain",
+    "country": "BH",
+    "lat": 26.2167,
+    "lon": 50.5833
+  },
+  "contact": {
+    "email": "customercare@ega.gov.bh",
+    "phone": "8000 8001",
+    "irc": "irc://irc.as.rizon.net:6667/",
+    "facebook": "https://www.facebook.com/pages/Bahrain/104025726301539",
+    "twitter": "@moi_bahrain"
+  },
+  "state": {
+    "logo": "http://www.logotypes101.com/logos/458/2F617DC5BF8CB09A1057003045FFF7C3/Bahrain.png",
+    "lastchange": "2015-01-02T18:47:46.424Z"
+  },
+  "timeline": [
+    {
+      "description": "Designated non-NATO ally",
+      "timestamp": "2001-10-26",
+      "url": "http://www.voanews.com/content/a-13-a-2001-10-26-13-bahrain-67542952/387338.html"
+    },
+    {
+      "description": "Declared Kingdom from state",
+      "timestamp": "2002-02-14",
+      "url": "http://www.wipo.int/wipolex/en/details.jsp?id=7264"
+    },
+    {
+      "description": "Independence from the UK",
+      "timestamp": "1971-08-15",
+      "url": "http://www.umsl.edu/services/govdocs/wofact2006/geos/ba.html"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Bahrain News Agency",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.bna.bh/portal/main_rss/en/feed.rss"
+    }
+  ],
+  "api": "1.0.1"
+}
