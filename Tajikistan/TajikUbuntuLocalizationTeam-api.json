@@ -1,0 +1,24 @@
+{
+  "name": "Tajik Ubuntu Localization Team",
+  "url": "https://launchpad.net/~ubuntu-l10n-tgk",
+  "location": {
+    "city": "Central Asia",
+    "country": "TJ",
+    "lat": 38.55,
+    "lon": 68.8
+  },
+  "contact": {
+    "ml": "ubuntu-l10n-tgk@lists.launchpad.net"
+  },
+  "timeline": [
+    {
+      "description": "founded on ",
+      "timestamp": "2013-04-04",
+      "url": "https://launchpad.net/~ubuntu-l10n-tgk"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-02T12:31:21.151Z"
+  },
+  "api": "1.0.1"
+}
