@@ -4,8 +4,8 @@
   "location": {
     "city": "Colombo ",
     "country": "LK",
-    "lat": 79.8428,
-    "lon": 6.9344
+    "lat": 6.9344,
+    "lon": 79.8428
   },
   "contact": {
     "ml": "https://lists.mozilla.org/listinfo/community-sri-lanka",
