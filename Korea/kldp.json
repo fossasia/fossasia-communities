@@ -1,0 +1,25 @@
+{
+  "name": "Korean Linux Documentation Project",
+  "url": "https://kldp.org",
+  "location": {
+    "city": "Seoul",
+    "country": "KR",
+    "lat": 37.5667,
+    "lon": 126.9781
+  },
+  "contact": {
+    "email": "kss@kldp.org"
+  },
+   "feeds": [
+    {
+      "name": "KLDP Wiki",
+      "category": "wiki",
+      "type": "xml",
+      "url": "https://wiki.kldp.org/wiki.php"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-01T19:22:17.314Z"
+  },
+  "api": "1.0.1"
+}
