@@ -2,18 +2,28 @@
   "name": "Mozilla Sri Lanka ",
   "url": "http://www.mozilla.lk/home/",
   "location": {
-    "city": "Colombo ",
+    "city": "Colombo",
     "country": "LK",
     "lat": 6.9344,
     "lon": 79.8428
   },
   "contact": {
+    "email": "info@mozilla.lk",
     "ml": "https://lists.mozilla.org/listinfo/community-sri-lanka",
     "facebook": "https://www.facebook.com/mozillalk",
-    "twitter": "@mozsrilanka"
+    "twitter": "@mozsrilanka",
+    "googleplus": "https://plus.google.com/u/0/102027817823733462399/posts"
   },
+  "feeds": [
+    {
+      "name": "Mozilla Sri Lanka ",
+      "category": "blog",
+      "type": "rss",
+      "url": "https://mozilla.lk/site/page/home"
+    }
+  ],
   "state": {
-    "lastchange": "2015-01-03T02:44:21.816Z"
+    "lastchange": "2015-01-03T22:03:27.285Z"
   },
   "api": "1.0.1"
 }
