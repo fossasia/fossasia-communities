@@ -1,0 +1,19 @@
+{
+  "name": "Mozilla Sri Lanka ",
+  "url": "http://www.mozilla.lk/home/",
+  "location": {
+    "city": "Colombo ",
+    "country": "LK",
+    "lat": 79.8428,
+    "lon": 6.9344
+  },
+  "contact": {
+    "ml": "https://lists.mozilla.org/listinfo/community-sri-lanka",
+    "facebook": "https://www.facebook.com/mozillalk",
+    "twitter": "@mozsrilanka"
+  },
+  "state": {
+    "lastchange": "2015-01-03T02:44:21.816Z"
+  },
+  "api": "1.0.1"
+}
