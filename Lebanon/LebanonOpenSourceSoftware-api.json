@@ -1,0 +1,45 @@
+{
+  "name": "Lebanon Open Source Software",
+  "url": "https://github.com/Lebanese-OSS",
+  "location": {
+    "city": "Beirut",
+    "country": "LB",
+    "lat": 33.8869,
+    "lon": 35.5131,
+    "address": {
+      "Name": "Lamba Labs",
+      "Street": "Armenia Street"
+    }
+  },
+  "contact": {
+    "email": "piotr.yordanov@gmail.com",
+    "phone": "9613903261",
+    "ml": "llbh@googlegroups.com",
+    "facebook": "https://www.facebook.com/groups/390113624411131/"
+  },
+  "state": {
+    "logo": "https://avatars3.githubusercontent.com/u/3138060?v=3&s=200",
+    "lastchange": "2015-01-04T21:59:12.263Z"
+  },
+  "timeline": [
+    {
+      "description": " Piotr Yordanov created the group",
+      "timestamp": "2012-12-27",
+      "url": "https://www.facebook.com/groups/390113624411131/permalink/390113627744464/"
+    },
+    {
+      "description": "Election for Community name",
+      "timestamp": "2012-12-28",
+      "url": "https://www.facebook.com/groups/390113624411131/permalink/390575641031596/?qa_ref=qd"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Lamba Labs Hackerspace Updates",
+      "category": "forum",
+      "type": "rss",
+      "url": "https://groups.google.com/forum/feed/llbh/msgs/rss.xml?num=15"
+    }
+  ],
+  "api": "1.0.1"
+}
