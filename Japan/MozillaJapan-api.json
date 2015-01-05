@@ -1,0 +1,37 @@
+{
+  "name": "Mozilla Japan ",
+  "url": "http://www.mozilla.jp/",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.684577,
+    "lon": 139.73826,
+    "address": {
+      "Name": "Institute Mozilla Japan",
+      "Street": "7-5-6 Roppongi",
+      "Zipcode": "106-0032"
+    }
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/foxkeh.jp",
+    "twitter": "@mozillajp"
+  },
+  "feeds": [
+    {
+      "name": "Foxkeh's Blog",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.foxkeh.jp/"
+    },
+    {
+      "name": "Mozilla Japan Blog",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.mozilla.jp/blog/"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-04T20:50:51.580Z"
+  },
+  "api": "1.0.1"
+}
