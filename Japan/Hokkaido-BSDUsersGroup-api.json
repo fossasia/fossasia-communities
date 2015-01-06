@@ -1,0 +1,17 @@
+{
+  "name": "Hokkaido * BSD Users Group",
+  "url": "http://www.no.bug.gr.jp/",
+  "location": {
+    "city": "Hokkaido ",
+    "country": "JP",
+    "lat": 43,
+    "lon": 142
+  },
+  "contact": {
+    "ml": "members-ctl@no.bug.gr.jp"
+  },
+  "state": {
+    "lastchange": "2015-01-06T15:49:43.995Z"
+  },
+  "api": "1.0.1"
+}
