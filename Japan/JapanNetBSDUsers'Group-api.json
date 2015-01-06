@@ -1,0 +1,22 @@
+{
+  "name": "Japan NetBSD Users' Group",
+  "url": "http://www.jp.netbsd.org",
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.67918,
+    "lon": 139.6747,
+    "address": {
+      "Name": "Treasure Building 9th floor",
+      "Street": "Shibuya-ku",
+      "Zipcode": "1510072"
+    }
+  },
+  "contact": {
+    "email": "committee@jp.NetBSD.org"
+  },
+  "state": {
+    "lastchange": "2015-01-06T13:32:17.111Z"
+  },
+  "api": "1.0.1"
+}
