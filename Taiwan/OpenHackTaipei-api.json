@@ -1,0 +1,20 @@
+{
+  "name": "OpenHack Taipei",
+  "url": "http://openhack.github.io/taipei/",
+  "location": {
+    "city": "Taipei",
+    "country": "TW",
+    "lat": 25.0391667,
+    "lon": 121.525
+  },
+  "contact": {
+    "email": "imrehg@gmail.com",
+    "facebook": "https://www.facebook.com/groups/510083385683277/",
+    "twitter": "@OpenHackTP",
+    "googleplus": "https://plus.google.com/115727541741204190730/"
+  },
+  "state": {
+    "lastchange": "2015-01-05T14:46:41.891Z"
+  },
+  "api": "1.0.1"
+}
