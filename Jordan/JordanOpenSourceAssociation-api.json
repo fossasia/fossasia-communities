@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Open Source Association (JOSA)",
+  "url": "http://jordanopensource.org/",
+  "location": {
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.95,
+    "lon": 35.9333
+  },
+  "contact": {
+    "email": "info@jordanopensource.org",
+    "facebook": "https://www.facebook.com/jordanopensource/info?tab=page_info",
+    "twitter": "@jo_osa"
+  },
+  "timeline": [
+    {
+      "description": "Founded on",
+      "timestamp": "2009-10-01",
+      "url": "https://twitter.com/jo_osa"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-05T22:48:57.729Z"
+  },
+  "api": "1.0.1"
+}
