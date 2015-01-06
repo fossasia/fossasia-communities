@@ -1,0 +1,47 @@
+{
+  "name": "Bahrain Linux Users Group",
+  "url": "http://linuxbahrain.com/",
+  "location": {
+    "city": "Manama",
+    "country": "BH",
+    "lat": 26.2167,
+    "lon": 50.5833,
+    "address": {
+      "Name": "Al Ayam Media Center",
+      "Street": "34"
+    }
+  },
+  "contact": {
+    "email": "marwan.alsabb@gmail.com"
+  },
+  "state": {
+    "logo": "http://linuxbahrain.com/sites/all/themes/lugtheme/logo.png",
+    "lastchange": "2015-01-04T09:49:35.586Z"
+  },
+  "timeline": [
+    {
+      "description": "Marwan Alsabbagh steps down",
+      "timestamp": "2012-03-19",
+      "url": "http://linuxbahrain.com/content/stepping-down"
+    },
+    {
+      "description": "Redirecting the open source group",
+      "timestamp": "2011-05-30",
+      "url": "http://linuxbahrain.com/content/lug-june-2011-meeting-new-direction"
+    },
+    {
+      "description": "First Meeting",
+      "timestamp": "2007-06-06",
+      "url": "http://linuxbahrain.com/content/first-meeting"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Linux Bahrain RSS",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://linuxbahrain.com/rss.xml"
+    }
+  ],
+  "api": "1.0.1"
+}

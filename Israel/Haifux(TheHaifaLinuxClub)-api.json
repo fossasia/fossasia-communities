@@ -1,0 +1,46 @@
+{
+  "name": "Haifux (The Haifa Linux Club)",
+  "url": "http://haifux.org/israel.html",
+  "location": {
+    "city": "Kfar Malal",
+    "country": "IL",
+    "lat": 32.1679,
+    "lon": 34.8951,
+    "address": {
+      "Name": "Taub Building",
+      "Street": "Technion Israel Institute of Technology",
+      "Zipcode": "32000"
+    }
+  },
+  "contact": {
+    "email": "haifux@haifux.org",
+    "ml": "haifux-subscribe@haifux.org",
+    "facebook": "https://www.facebook.com/groups/112112232160108/"
+  },
+  "metacommunity": "FOSS Israel",
+  "state": {
+    "logo": "http://haifux.org/pics/Alon_Altman2b.png",
+    "lastchange": "2015-01-05T22:51:01.109Z"
+  },
+  "timeline": [
+    {
+      "description": "First Lecture",
+      "timestamp": "1999-08-19",
+      "url": "http://haifux.org/lectures.html"
+    },
+    {
+      "description": "Harmonic Job Offers",
+      "timestamp": "2014-11-16",
+      "url": "http://haifux.org/jobs.html"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Haifux Future Lectures",
+      "category": "ics",
+      "type": "rss",
+      "url": "http://haifux.org/rss2file"
+    }
+  ],
+  "api": "1.0.1"
+}
