@@ -1,0 +1,17 @@
+{
+  "name": "Mongolian Unix User Group",
+  "url": "http://www.mnbsd.org/",
+  "location": {
+    "city": "Mongolia",
+    "country": "MN",
+    "lat": 46,
+    "lon": 105
+  },
+  "contact": {
+    "email": "admin@mnbsd.org"
+  },
+  "state": {
+    "lastchange": "2015-01-06T13:17:23.004Z"
+  },
+  "api": "1.0.1"
+}
