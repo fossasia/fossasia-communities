@@ -1,0 +1,27 @@
+{
+  "name": "Ubuntu Iranian Team",
+  "url": "http://www.ubuntu.ir/",
+  "location": {
+    "city": "Western Asia",
+    "country": "IR",
+    "lat": 32,
+    "lon": 53
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/#ubuntu-ir",
+    "facebook": "https://www.facebook.com/ubuntu.ir/info?tab=page_info",
+    "twitter": "@ubuntu_ir",
+    "googleplus": "https://plus.google.com/100660012680761503955"
+  },
+  "timeline": [
+    {
+      "description": "Founded on",
+      "timestamp": "2006-09-11",
+      "url": "https://launchpad.net/~ubuntu-ir"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-06T17:19:56.125Z"
+  },
+  "api": "1.0.1"
+}
