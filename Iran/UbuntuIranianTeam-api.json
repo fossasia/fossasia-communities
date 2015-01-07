@@ -20,6 +20,13 @@
       "url": "https://launchpad.net/~ubuntu-ir"
     }
   ],
+  "feeds": [
+    {
+      "category": "forum",
+      "type": "rss",
+      "url": "http://forum.ubuntu.ir/index.php?PHPSESSID=c96e85e620165da4d855d93ba08d594a&action=.xml;type=rss"
+    }
+  ],
   "state": {
     "lastchange": "2015-01-06T17:19:56.125Z"
   },
