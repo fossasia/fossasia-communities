@@ -1,0 +1,41 @@
+{
+  "name": "Mozilla Kerala ",
+  "url": "http://mozillakerala.org/landing/",
+  "location": {
+    "city": "Kerala ",
+    "country": "IN",
+    "lat": 8.5074,
+    "lon": 76.973
+  },
+  "contact": {
+    "irc": "irc://irc.mozilla.org/kerala",
+    "ml": "https://lists.mozilla.org/listinfo/community-kerala",
+    "facebook": "https://www.facebook.com/MozillaKerala",
+    "twitter": "@MozillaKerala",
+    "googleplus": "https://plus.google.com/114831280089581546580/posts"
+  },
+  "feeds": [
+    {
+      "name": "Mozilla Kerala ",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://blog.mozillakerala.org/"
+    },
+    {
+      "name": "Mozilla Kerala facebook ",
+      "category": "others",
+      "type": "rss",
+      "url": "https://www.facebook.com/feeds/page.php?format=rss20&id=290667851051610"
+    },
+    {
+      "name": "Mozilla Kerala google+",
+      "category": "others",
+      "type": "rss",
+      "url": "http://gplusrss.com/rss/feed/139808e2aec9f6295f4ba068d5b12b2e5275361f116e1"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-09T22:49:30.668Z"
+  },
+  "api": "1.0.1"
+}
