@@ -1,0 +1,20 @@
+{
+  "name": "Mozilla Hong Kong ",
+  "url": "http://blog.mozillahk.org/",
+  "location": {
+    "city": "Hong Kong ",
+    "country": "HK",
+    "lat": 22.267,
+    "lon": 114.188
+  },
+  "contact": {
+    "ml": "mozillahk@googlegroups.com",
+    "facebook": "https://www.facebook.com/mozillahk",
+    "twitter": "@mozillahk",
+    "googleplus": "https://plus.google.com/107680812194680883050/posts"
+  },
+  "state": {
+    "lastchange": "2015-01-09T22:08:14.222Z"
+  },
+  "api": "1.0.1"
+}
