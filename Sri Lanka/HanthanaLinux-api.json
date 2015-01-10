@@ -1,0 +1,18 @@
+{
+  "name": "Hanthana Linux",
+  "url": "http://www.hanthana.org/",
+  "location": {
+    "city": "Sri Lanka",
+    "lat": 7.8730539,
+    "lon": 80.771796999
+  },
+  "contact": {
+    "email": "info@hanthana.org",
+    "irc": "irc://irc.freenode.net/hanthana",
+    "facebook": "https://www.facebook.com/groups/hanthana/"
+  },
+  "state": {
+    "lastchange": "2015-01-09T06:18:12.465Z"
+  },
+  "api": "1.0.1"
+}

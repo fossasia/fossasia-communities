@@ -1,0 +1,17 @@
+{
+  "name": "ILUG-Bom",
+  "url": "http://www.glug-bom.org/",
+  "location": {
+    "city": "Mumbai",
+    "country": "IN",
+    "lat": 18.975,
+    "lon": 72.825833
+  },
+  "contact": {
+    "email": "binand@gmail.com"
+  },
+  "state": {
+    "lastchange": "2015-01-08T04:00:41.484Z"
+  },
+  "api": "1.0.1"
+}
