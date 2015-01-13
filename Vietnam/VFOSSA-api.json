@@ -1,0 +1,26 @@
+{
+  "name": "VFOSSA",
+  "url": "http://vfossa.vn/",
+  "location": {
+    "city": "Hanoi",
+    "country": "VN",
+    "lat": 21.0333,
+    "lon": 105.85
+  },
+  "state": {
+    "logo": "http://vfossa.vn/tailen/logo-6b-new1.png",
+    "lastchange": "2015-01-13T18:54:32.959Z"
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/vfossa.vn"
+  },
+  "feeds": [
+    {
+      "name": "FOSS Club Vietnam (VFOSSA) RSS: The latest news",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://vfossa.vn/vi/mininews/rss/"
+    }
+  ],
+  "api": "1.0.1"
+}
