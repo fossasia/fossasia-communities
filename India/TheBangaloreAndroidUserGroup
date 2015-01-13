@@ -1,0 +1,17 @@
+{
+  "name": "The Bangalore Android User Group ",
+  "url": "http://www.blrdroid.com",
+  "location": {
+    "city": "Bangalore ",
+    "country": "IN",
+    "lat": 77.5667,
+    "lon": 12.9667
+  },
+  "contact": {
+    "email": "organizers@blrdroid.org"
+  },
+  "state": {
+    "lastchange": "2015-01-13T04:27:24.152Z"
+  },
+  "api": "1.0.1"
+}
