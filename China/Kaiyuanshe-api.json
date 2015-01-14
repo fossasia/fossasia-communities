@@ -1,0 +1,25 @@
+{
+  "name": "Kaiyuanshe",
+  "url": "http://www.kaiyuanshe.cn/",
+  "location": {
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 39.9139,
+    "lon": 116.3917
+  },
+  "contact": {
+    "email": "contact@kaiyuanshe.cn"
+  },
+  "state": {
+    "logo": "http://www.kaiyuanshe.cn/templates/hli/css/images/logo.png",
+    "lastchange": "2015-01-13T09:26:51.423Z"
+  },
+  "timeline": [
+    {
+      "description": "Launched",
+      "timestamp": "2014-10-17",
+      "url": "http://blogs.microsoft.com/firehose/2014/10/17/ms-open-tech-china-is-founding-member-of-new-alliance-to-promote-open-source-development/"
+    }
+  ],
+  "api": "1.0.1"
+}
