@@ -1,0 +1,22 @@
+{
+  "name": "Nagoya * BSD Users' Group",
+  "url": "http://www.nagoya.bug.gr.jp/",
+  "location": {
+    "city": "Nagoya",
+    "country": "JP",
+    "lat": 35.1856,
+    "lon": 136.8858,
+    "address": {
+      "Name": "1- Chrome-35-15 Nagono",
+      "Street": "Nishi-ku, Nagoya-shi, Aichi-ken",
+      "Zipcode": "4600001"
+    }
+  },
+  "contact": {
+    "ml": "bsd-ctl@tunagu.gr.jp"
+  },
+  "state": {
+    "lastchange": "2015-01-06T15:55:34.894Z"
+  },
+  "api": "1.0.1"
+}

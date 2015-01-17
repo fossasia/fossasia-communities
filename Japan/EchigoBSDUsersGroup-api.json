@@ -1,0 +1,18 @@
+{
+  "name": "Echigo BSD Users Group",
+  "url": "http://www.ebug.jp/",
+  "location": {
+    "city": "Echigo",
+    "country": "JP",
+    "lat": 37.5594,
+    "lon": 139.0533
+  },
+  "contact": {
+    "email": "inquiry@ebug.jp",
+    "ml": "http://www.ebug.jp/ml.html"
+  },
+  "state": {
+    "lastchange": "2015-01-06T15:18:24.440Z"
+  },
+  "api": "1.0.1"
+}
