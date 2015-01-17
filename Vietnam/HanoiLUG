@@ -1,0 +1,17 @@
+{
+  "name": "HanoiLUG",
+  "url": "http://blog.hanoilug.org/",
+  "location": {
+    "city": "Hanoi",
+    "country": "VN",
+    "lat": 105.85,
+    "lon": 21.0333
+  },
+  "contact": {
+    "email": "mailman@lists.hanoilug.org"
+  },
+  "state": {
+    "lastchange": "2015-01-17T19:50:54.072Z"
+  },
+  "api": "1.0.1"
+}
