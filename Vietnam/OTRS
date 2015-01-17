@@ -1,0 +1,18 @@
+{
+  "name": "OTRS",
+  "url": "https://www.otrs.com/homepage/software/open-source/?lang=de",
+  "location": {
+    "city": "Saigon",
+    "country": "VN",
+    "lat": 106.6667,
+    "lon": 10.75
+  },
+  "contact": {
+    "email": "sales@otrs.com",
+    "phone": "1 408 549 1717"
+  },
+  "state": {
+    "lastchange": "2015-01-17T05:27:50.366Z"
+  },
+  "api": "1.0.1"
+}
