@@ -1,14 +1,14 @@
 {
-  "name": "Mongolian Unix User Group",
-  "url": "http://www.mnbsd.org/",
+  "name": "Kansai * BSD Users Group",
+  "url": "http://www.kbug.gr.jp/",
   "location": {
-    "city": "Mongolia",
-    "country": "MN",
-    "lat": 46,
-    "lon": 105
+    "city": "Kansai",
+    "country": "JP",
+    "lat": 35,
+    "lon": 135
   },
   "contact": {
-    "email": "admin@mnbsd.org"
+    "email": "kbug-admin@kbug.gr.jp"
   },
   "state": {
     "lastchange": "2015-01-06T13:17:23.004Z"
