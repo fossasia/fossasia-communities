@@ -1,0 +1,22 @@
+{
+  "name": "Team Ubuntu Singapore",
+  "url": "http://ubuntu.sg/",
+  "location": {
+    "city": "Singapore",
+    "country": "SG",
+    "lat": 1.3,
+    "lon": 103.8
+  },
+  "contact": {
+    "email": "contact@ubuntu.sg",
+    "irc": "irc://irc.freenode.net/ubuntu-sg",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-sg",
+    "facebook": "https://www.facebook.com/groups/ubuntu.sg/"
+  },
+  "metacommunity": "https://launchpad.net/~locoteams",
+  "state": {
+    "logo": "https://www.facebook.com/photo.php?fbid=400128356231&set=o.31239604821&type=3&theater",
+    "lastchange": "2015-01-18T01:10:16.483Z"
+  },
+  "api": "1.0.1"
+}
