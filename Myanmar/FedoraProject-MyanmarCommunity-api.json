@@ -1,0 +1,25 @@
+{
+  "name": "Fedora Project - Myanmar Community",
+  "url": "http://mm.fedoracommunity.org/web",
+  "location": {
+    "city": "Yangon",
+    "country": "MM",
+    "lat": 16.807183,
+    "lon": 96.127423
+  },
+  "contact": {
+    "email": "orcakrilozona@fedoraproject.org",
+    "phone": "09420121451",
+    "facebook": "https://www.facebook.com/fedorammcommunity",
+    "googleplus": "https://plus.google.com/b/117839895828066281764/117839895828066281764/posts"
+  },
+  "feeds": [
+    {
+      "name": "http://mm.fedoracommunity.org/web/feed",
+      "category": "blog"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T10:36:22.877Z"
+  },
+  "api": "1.0.0"
