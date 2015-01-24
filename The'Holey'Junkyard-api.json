@@ -1,0 +1,18 @@
+{
+  "name": "The 'Holey'Junkyard",
+  "url": "https://code.google.com/p/the-holey-junkyard/",
+  "location": {
+    "city": "Pune",
+    "country": "IN",
+    "lat": 18.5203,
+    "lon": 73.8567
+  },
+  "contact": {
+    "email": "billy.g.gruff.7@gmail.com",
+    "irc": "irc://irc.freenode.net/punegeeks"
+  },
+  "state": {
+    "lastchange": "2014-12-29T05:41:52.952Z"
+  },
+  "api": "1.0.1"
+}
