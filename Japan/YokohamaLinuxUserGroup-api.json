@@ -1,0 +1,26 @@
+{
+  "name": "Yokohama Linux User Group ",
+  "url": "http://www.ylug.jp/modules/pukiwiki/",
+  "location": {
+    "city": "Yokohama",
+    "country": "JP",
+    "lat": 35.4442,
+    "lon": 139.6381
+  },
+  "contact": {
+    "email": "ylug-request@linux.or.jp",
+    "ml": "ylug-ctl@linux.or.jp"
+  },
+  "feeds": [
+    {
+      "name": "Yokohama Linux User Group",
+      "category": "wiki",
+      "type": "rss",
+      "url": "http://www.ylug.jp/modules/pukiwiki/?cmd=rss10"
+    }
+  ],
+  "state": {
+    "lastchange": "2015-01-05T20:27:47.975Z"
+  },
+  "api": "1.0.1"
+}
