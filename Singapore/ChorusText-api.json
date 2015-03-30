@@ -1,0 +1,19 @@
+{
+  "name": "ChorusText",
+  "url": "http://www.chorustext.org",
+  "location": {
+    "city": "Singapore",
+    "country": "SG",
+    "lat": 1.30663,
+    "lon": 103.78867
+  },
+  "contact": {
+    "email": "kurakuradave@gmail.com",
+    "phone": "92210889"
+  },
+  "state": {
+    "logo": "http://www.chorustext.org/wp-content/uploads/2014/10/logo_long.png",
+    "lastchange": "2015-03-27T04:50:50.855Z"
+  },
+  "api": "1.0.1"
+}
