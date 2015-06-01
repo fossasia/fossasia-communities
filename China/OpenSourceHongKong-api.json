@@ -1,0 +1,21 @@
+{
+  "name": "Open Source Hong Kong",
+  "url": "http://opensource.hk/",
+  "location": {
+    "city": "Hong Kong",
+    "country": "CN",
+    "lat": 22.267,
+    "lon": 114.188,
+    "address": {
+      "Name": "Open Source Hong Kong",
+      "Street": "G.P.O. Box No. 11731",
+      "Zipcode": "Hong Kong"
+    }
+  },
+  "contact": {
+    "email": "sammy@opensource.hk",
+    "ml": "opensourcehk@googlegroups.com",
+    "facebook": "https://www.facebook.com/opensourcehk"
+  },
+  "api": "1.0.0"
+}
