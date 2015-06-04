@@ -13,7 +13,7 @@ Step by Step
 
 Step by Step from API Generator to the your community listing on FOSSASIA.net.
 
-1. Go to http://fossasia.net/api/generator/index.html and fill in the information about your community in the form and press "OK - generate...". Mandatory fields are marked with an asterisk. The more information you enter, the better.
+1. Go to http://api.fossasia.net/generator/index.html and fill in the information about your community in the form and press "OK - generate...". Mandatory fields are marked with an asterisk. The more information you enter, the better.
 
 2. Your results are displayed on the top right hand side (scroll up after you finished 1). If information is missing or fields are incorrectly filled, you will see it marked under the text box. Fill in or correct the information and generate the API file again.
 
