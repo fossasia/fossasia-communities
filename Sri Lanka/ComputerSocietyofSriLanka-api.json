@@ -1,0 +1,19 @@
+{
+  "name": "Computer Society of Sri Lanka",
+  "url": "https://www.cssl.lk",
+  "location": {
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 6.9344,
+    "lon": 79.8428
+  },
+  "contact": {
+    "email": "membership@cssl.lk",
+    "phone": "+9411 4713290",
+    "facebook": "https://www.facebook.com/ComputerSocietySriLanka/"
+  },
+  "state": {
+    "lastchange": "2016-01-01T20:30:26.362Z"
+  },
+  "api": "1.0.1"
+}
