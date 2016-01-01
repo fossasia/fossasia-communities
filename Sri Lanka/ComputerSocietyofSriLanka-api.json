@@ -1,6 +1,6 @@
 {
   "name": "Computer Society of Sri Lanka",
-  "url": "https://www.cssl.lk",
+  "url": "https://www.cssl.lk/sig?id=133",
   "location": {
     "city": "Colombo",
     "country": "LK",
@@ -13,7 +13,8 @@
     "facebook": "https://www.facebook.com/ComputerSocietySriLanka/"
   },
   "state": {
-    "lastchange": "2016-01-01T20:30:26.362Z"
+    "logo": "https://www.cssl.lk/templates/theme630/images/logo.png",
+    "lastchange": "2016-01-01T22:49:59.272Z"
   },
   "api": "1.0.1"
 }
