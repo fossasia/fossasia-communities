@@ -1,0 +1,20 @@
+{
+  "name": "Taiwan Python User Group",
+  "url": "http://wiki.python.org.tw/",
+  "location": {
+    "city": "Taipei",
+    "country": "TW",
+    "lat": 25.0333,
+    "lon": 121.6333
+  },
+  "contact": {
+    "email": "wiki@python.org.tw",
+    "irc": "irc://wiki.python.org.tw/PotResources/IRC"
+  },
+  "metacommunity": "Python-User Groups ",
+  "state": {
+    "logo": "http://wiki.python.org.tw/htdocs/siteimg/pytug_logo.png",
+    "lastchange": "2016-01-02T22:38:35.871Z"
+  },
+  "api": "1.0.1"
+}
