@@ -1,0 +1,32 @@
+{
+  "name": "rubyologists Lanka",
+  "url": "http://lkrug.org/",
+  "location": {
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 6.9344,
+    "lon": 79.8428
+  },
+  "contact": {
+    "twitter": "@rubyologists"
+  },
+  "timeline": [
+    {
+      "description": "Founded ",
+      "timestamp": "2009-09-02",
+      "url": "https://twitter.com/rubyologists/status/3728650972"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Mailing List Discussion Feed",
+      "category": "others",
+      "type": "RSS",
+      "url": "Mailing List Discussion Feed"
+    }
+  ],
+  "state": {
+    "lastchange": "2016-01-01T22:45:33.279Z"
+  },
+  "api": "1.0.1"
+}
