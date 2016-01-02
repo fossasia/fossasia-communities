@@ -1,0 +1,26 @@
+{
+  "name": "Linux Install Learning Osaka",
+  "url": "http://lilo.linux.or.jp/",
+  "location": {
+    "city": "kansai",
+    "country": "JP",
+    "lat": 34.4342,
+    "lon": 135.2328
+  },
+  "metacommunity": "LUG-ASIA",
+  "state": {
+    "logo": "http://lilo.linux.or.jp/mascot/lilopen02.jpg",
+    "lastchange": "2016-01-02T21:51:53.500Z"
+  },
+  "contact": {
+    "ml": "http://lilo.linux.or.jp/ml.html"
+  },
+  "timeline": [
+    {
+      "description": "Founded ",
+      "timestamp": "1997-06-19",
+      "url": "http://lilo.linux.or.jp/history/"
+    }
+  ],
+  "api": "1.0.1"
+}
