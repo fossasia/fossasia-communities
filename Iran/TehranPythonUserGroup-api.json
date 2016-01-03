@@ -1,0 +1,30 @@
+{
+  "name": "Tehran Python User Group",
+  "url": "http://tehpug.ir/",
+  "location": {
+    "city": "Tehran",
+    "country": "IR",
+    "lat": 35.6961,
+    "lon": 51.4231
+  },
+  "metacommunity": "Python User Groups",
+  "state": {
+    "logo": "http://tehpug.ir/static/img/logo.png",
+    "lastchange": "2016-01-02T22:14:15.729Z"
+  },
+  "contact": {
+    "irc": "irc://webchat.freenode.net/?channels=python-ir&uio=d4",
+    "ml": "https://mail.python.org/mailman/listinfo/tehpug",
+    "facebook": "https://www.facebook.com/tehpug",
+    "twitter": "@TehPUG"
+  },
+  "feeds": [
+    {
+      "name": "News Feed",
+      "category": "blog",
+      "type": "RSS",
+      "url": "http://tehpug.ir/news/feed/"
+    }
+  ],
+  "api": "1.0.1"
+}
