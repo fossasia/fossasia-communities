@@ -1,0 +1,18 @@
+{
+  "name": "YSITD | Young Students' IT Discussion",
+  "url": "http://ysitd.io",
+  "location": {
+    "city": "Taipei",
+    "country": "TW",
+    "lat": 25.042342,
+    "lon": 121.6160907
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/ysitd",
+    "facebook": "https://www.facebook.com/ysitd.tw"
+  },
+  "state": {
+    "lastchange": "2016-01-03T08:50:00.000Z"
+  },
+  "api": "1.0.0"
+}
