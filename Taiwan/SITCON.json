@@ -30,10 +30,15 @@
       "description": "SITCON 2015",
       "timestamp": "2015-03-07",
       "url": "http://sitcon.org/2015"
+    },
+    {
+      "description": "SITCON 2016",
+      "timestamp": "2016-02-27",
+      "url": "http://sitcon.org/2016"
     }
   ],
   "state": {
-    "lastchange": "2014-12-16T13:20:54.073Z"
+    "lastchange": "2016-01-03T08:55:00.000Z"
   },
   "api": "1.0.0"
 }
