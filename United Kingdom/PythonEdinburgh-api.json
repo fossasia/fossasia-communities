@@ -1,0 +1,21 @@
+{
+  "name": "Python Edinburgh",
+  "url": "http://www.pythonedinburgh.org/",
+  "location": {
+    "city": "Edinburgh ",
+    "country": "GB",
+    "lat": 55.9531,
+    "lon": 3.1889
+  },
+  "metacommunity": "Python-User Groups ",
+  "state": {
+    "logo": "http://www.pythonedinburgh.org/static/images/banner-logo.7781f8d2bd9c.png",
+    "lastchange": "2016-01-15T19:24:17.777Z"
+  },
+  "contact": {
+    "irc": "irc://irc.freenode.net/python-scotland",
+    "ml": "http://mail.python.org/mailman/listinfo/edinburgh",
+    "twitter": "@pythonedinburgh"
+  },
+  "api": "1.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Brighton and Hove Python User Group",
+  "url": "http://www.brightonpy.org/",
+  "location": {
+    "city": "Brighton and Hove",
+    "country": "GB",
+    "lat": 50.8278,
+    "lon": 0.1528,
+    "address": {
+      "Name": " The Skiff",
+      "Street": " 6 Gloucester Street",
+      "Zipcode": "BN1 4EW"
+    }
+  },
+  "metacommunity": "Python-User Groups ",
+  "state": {
+    "logo": "http://www.brightonpy.org/",
+    "lastchange": "2016-01-15T19:17:58.339Z"
+  },
+  "contact": {
+    "ml": "http://groups.google.com/group/brightonpy",
+    "twitter": "@brightonpy"
+  },
+  "feeds": [
+    {
+      "name": "Meetings",
+      "category": "blog",
+      "type": "atom",
+      "url": "http://www.brightonpy.org/meetings/"
+    }
+  ],
+  "api": "1.0.1"
+}
