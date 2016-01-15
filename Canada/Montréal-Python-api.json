@@ -1,0 +1,30 @@
+{
+  "name": "Montréal-Python",
+  "url": "http://montrealpython.org/",
+  "location": {
+    "city": "montreal ",
+    "country": "CA",
+    "lat": 45.5017,
+    "lon": 73.5673
+  },
+  "contact": {
+    "email": "mtlpyteam@googlegroups.com",
+    "facebook": "http://facebook.com/montrealpython",
+    "twitter": "@mtlpy",
+    "googleplus": "http://plus.google.com/101800773149455075847/"
+  },
+  "metacommunity": "Python-User Groups ",
+  "state": {
+    "logo": "http://montrealpython.org/en/",
+    "lastchange": "2016-01-15T11:09:24.158Z"
+  },
+  "feeds": [
+    {
+      "name": "Montreal RSS",
+      "category": "blog",
+      "type": "RSS",
+      "url": "http://montrealpython.org/en/feed/"
+    }
+  ],
+  "api": "1.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ottawa Python Authors Group",
+  "url": "http://opag.ca/",
+  "location": {
+    "city": "Ottawa",
+    "country": "CA",
+    "lat": 45.4214,
+    "lon": 75.6919
+  },
+  "metacommunity": "Python-User Groups ",
+  "state": {
+    "logo": "https://pbs.twimg.com/profile_images/429285908953579520/InZKng9-_bigger.jpeg",
+    "lastchange": "2016-01-15T11:24:18.624Z"
+  },
+  "contact": {
+    "irc": "irc://irc.oftc.net/#opag",
+    "ml": "https://lists.sourceforge.net/lists/listinfo/opag-general",
+    "twitter": "@pycoders"
+  },
+  "api": "1.0.1"
+}
