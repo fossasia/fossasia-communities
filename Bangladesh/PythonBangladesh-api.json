@@ -1,0 +1,19 @@
+{
+  "name": " Python Bangladesh",
+  "url": "http://pybd.org/",
+  "location": {
+    "city": "Dhaka",
+    "country": "BD",
+    "lat": 23.7,
+    "lon": 90.3667
+  },
+  "contact": {
+    "email": "info@pybd.org",
+    "facebook": "https://www.facebook.com/groups/pythonbd/"
+  },
+  "metacommunity": "Python-User Groups ",
+  "state": {
+    "lastchange": "2016-01-15T05:13:12.459Z"
+  },
+  "api": "1.0.1"
+}
