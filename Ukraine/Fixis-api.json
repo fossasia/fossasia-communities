@@ -1,0 +1,18 @@
+{
+  "name": "Fixis",
+  "url": "http://nolik2000.github.io/",
+  "location": {
+    "city": "Lviv",
+    "country": "UA",
+    "lat": 49,
+    "lon": 32
+  },
+  "contact": {
+    "email": "kostiv08nastya@gmail.com",
+    "phone": "+380983542275"
+  },
+  "state": {
+    "lastchange": "2016-01-20T21:09:02.385Z"
+  },
+  "api": "1.0.1"
+}
