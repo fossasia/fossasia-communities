@@ -1,0 +1,18 @@
+{
+  "name": "MillenniumIT",
+  "url": "http://www.millenniumit.com/",
+  "location": {
+    "city": "Malabe",
+    "country": "LK",
+    "lat": 6.6629,
+    "lon": 79.9292
+  },
+  "contact": {
+    "email": "info@millenniumit.com",
+    "phone": "+94 11 2416000"
+  },
+  "state": {
+    "lastchange": "2016-01-21T20:50:14.062Z"
+  },
+  "api": "1.0.1"
+}
