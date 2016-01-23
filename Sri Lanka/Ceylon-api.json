@@ -1,0 +1,18 @@
+{
+  "name": "Ceylon Linux",
+  "url": "http://www.ceylonlinux.com/",
+  "location": {
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 6.91535,
+    "lon": 79.875423
+  },
+  "contact": {
+    "email": "dilan@ceylonlinux.com",
+    "phone": "+94 714034053, "
+  },
+  "state": {
+    "lastchange": "2016-01-23T20:51:42.820Z"
+  },
+  "api": "1.0.1"
+}
