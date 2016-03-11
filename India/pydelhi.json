@@ -1,0 +1,21 @@
+{
+  "name": "PyDelhi",
+  "url": "https://pydelhi.org/",
+  "location": {
+    "city": "Delhi",
+    "country": "IN",
+    "lat": 28.636523,
+    "lon": 77.224962
+  },
+  "contact": {
+    "email":   "contact@pydelhi.org",
+    "twitter": "https://twitter.com/pydelhi",
+    "facebook":"https://www.facebook.com/groups/ncrpython",
+    "github":  "https://github.com/pydelhi" ,
+    "irc"   :  "https://webchat.freenode.net/?channels=%23pydelhi"
+  },
+  "state": {
+    "lastchange": "2016-01-24T02:55:04.537Z"
+  },
+  "api": "1.2.1"
+}
