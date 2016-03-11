@@ -1,0 +1,17 @@
+{
+  "name": "GDG New Delhi",
+  "url": "https://developers.google.com/groups/chapter/114576537688641864561/",
+  "location": {
+    "city": "Delhi",
+    "country": "IN",
+    "lat": 28.636523,
+    "lon": 77.224962
+  },
+  "contact": {
+    "email": "gdgnewdelhi@gmail.com"
+  },
+  "state": {
+    "lastchange": "2015-12-24T02:55:04.537Z"
+  },
+  "api": "1.0.1"
+}
