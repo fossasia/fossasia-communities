@@ -1,0 +1,19 @@
+{
+  "name": "Lean In India",
+  "url": "http://leanincircles.org/chapter/lean-in-india",
+  "location": {
+    "city": "Delhi",
+    "country": "IN",
+    "lat": 28.636523,
+    "lon": 77.224962
+  },
+  "contact": {
+    "email"    : "info@leanin.org",
+    "facebook" : "https://www.facebook.com/leanininindia/?fref=ts"
+    
+  },
+  "state": {
+    "lastchange": "2015-12-24T02:55:04.537Z"
+  },
+  "api": "1.0.1"
+}
