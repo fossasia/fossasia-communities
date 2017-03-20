@@ -9,14 +9,10 @@
   "contact": {
     "email": "info@hanthana.org",
     "irc": "irc://irc.freenode.net/hanthana",
-    "ml": "hanthana-community@googlegroups.com",
-    "identica": "https://identi.ca/hanthana",
-    "facebook": "https://www.facebook.com/groups/hanthana/",
-    "twitter": "@hanthana",
-    "googleplus": "https://plus.google.com/communities/110612373131264539552"
+    "facebook": "https://www.facebook.com/groups/hanthana/"
   },
   "state": {
-    "lastchange": "2015-01-18T07:59:53.214Z"
+    "lastchange": "2015-01-09T06:18:12.465Z"
   },
   "api": "1.0.1"
 }
